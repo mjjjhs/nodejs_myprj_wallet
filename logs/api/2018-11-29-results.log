@@ -1,0 +1,40 @@
+2018-11-29 11:14:59 error: {"message":"Not Found","status":404}
+2018-11-29 11:21:00 error: {"message":"Not Found","status":404}
+2018-11-29 11:22:47 info: user join api call. -> {"email":"fox1@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:22:47 error: Query Error. -> Error: Field 'selected_crypto_symbol' doesn't have a default value
+2018-11-29 11:23:42 info: user join api call. -> {"email":"fox1@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:23:43 error: Query Error. -> Error: Field 'is_crypto' doesn't have a default value
+2018-11-29 11:25:20 info: user join api call. -> {"email":"fox1@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:33:48 info: user join api call. -> {"email":"fox1@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:33:48 info: There is already an account. -> fox1@abc.com
+2018-11-29 11:33:59 info: user join api call. -> {"email":"fox2@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:36:00 info: user join api call. -> {"email":"fox2@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:36:00 info: There is already an account. -> fox2@abc.com
+2018-11-29 11:36:01 error: Query Error. -> Error: Duplicate entry 'fox2@abc.com' for key 'PRIMARY'
+2018-11-29 11:36:01 error: user join api error. -> Error: query Error
+2018-11-29 11:36:20 info: user join api call. -> {"email":"fox2@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:36:20 info: There is already an account. -> fox2@abc.com
+2018-11-29 11:42:19 info: user join api call. -> {"email":"fox2@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"korea","mobileNum":"01082942417"}
+2018-11-29 11:42:19 info: There is already an account. -> fox2@abc.com
+2018-11-29 12:10:22 error: {"message":"Forbidden","status":403}
+2018-11-29 18:14:11 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox3@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:15:59 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox3@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:16:38 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:16:39 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:16:40 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:16:41 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:17:27 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:20:02 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:21:49 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:22:46 error: {"expose":true,"statusCode":400,"status":400,"body":"{\n  \"email\": \"fox2@abc.com\",\n  \"pw\": \"testPassword\",\n  \"firstName\": \"jh\",\n  \"lastName\": \"moon\",\n  \"nationality\": 082,\n  \"nationalPhoneCode\": \"82\",\n  \"mobileNum\": \"01082942417\"\n}","type":"entity.parse.failed"}
+2018-11-29 18:23:22 info: user join api call:: {"email":"fox2@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"082","nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-11-29 18:23:22 info: user join api response:: There is already an account -> fox2@abc.com
+2018-11-29 18:28:00 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"082","nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-11-29 18:28:00 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_country_code_ISO_3166_country_code` FOREIGN KEY (`country_code`) REFERENCES `ISO_3166` (`country_code`))
+2018-11-29 18:28:00 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}
+2018-11-29 18:31:23 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":"971","nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-11-29 18:31:23 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_country_code_ISO_3166_country_code` FOREIGN KEY (`country_code`) REFERENCES `ISO_3166` (`country_code`))
+2018-11-29 18:31:23 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}
+2018-11-29 18:32:44 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":971,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-11-29 18:32:45 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_country_code_ISO_3166_country_code` FOREIGN KEY (`country_code`) REFERENCES `ISO_3166` (`country_code`))
+2018-11-29 18:32:45 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}

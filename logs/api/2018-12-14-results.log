@@ -1,0 +1,147 @@
+2018-12-14 09:11:50 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NDY2MDgsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIxODJmNWEzOC1jMjYwLTQ2YzMtYTM2Mi1lMmMwZDcwNTNjY2UifQ.SJC_1tUW90_EkcmvgIsRpKRVjqcNaQKC5mh9Pe_4tHc","state":"201"}
+2018-12-14 10:39:20 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-14 10:39:35 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 10:40:23 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 10:50:28 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 10:52:22 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 10:53:10 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 10:53:41 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 11:07:40 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-14 11:07:46 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-14 11:08:23 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-14 11:08:24 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ2MTAwMzYsImV4cCI6MTg2MDE4NjAzNiwiaXNzIjoiZnV6ZXgifQ.4D5iIekw6l3t2iKx_8YeqQ5imON0Ky0KEByms1tlbjM","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-12T01:20:23.426Z","use_exchange":null,"is_crypto":"1"}
+2018-12-14 11:08:24 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTMzMDQsImV4cCI6MTg2MDMyOTMwNCwiaXNzIjoiZnV6ZXgifQ.yzKzYXfoBh5ZK1wvJ8eqjgmr_ZZoOgbCKbz0SrAUKgs,jhmoon@brilliantts.com
+2018-12-14 11:08:24 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTMzMDQsImV4cCI6MTg2MDMyOTMwNCwiaXNzIjoiZnV6ZXgifQ.yzKzYXfoBh5ZK1wvJ8eqjgmr_ZZoOgbCKbz0SrAUKgs","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-14 11:09:00 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTM2MzgsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIwZmUwMGY4NC04ZmNmLTRhOWQtYWJhYi05NmZjMTk5NjQ2ZjcifQ.53kjWw003-t2k_kpubzy6keVPwDWO8zSvPGE0I4UNUk","state":"201"}
+2018-12-14 11:10:06 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTM3MDQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIwNDBkZDBjOS0zMDUzLTQ3MWYtYjQ5OS04ZmRiMDY0MTBiODQifQ.8FLarolEcKvdPrR0tEQaYFArQ01CHdZWep0g4Fx8UHw","state":"201"}
+2018-12-14 11:11:20 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTM3MDQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIwNDBkZDBjOS0zMDUzLTQ3MWYtYjQ5OS04ZmRiMDY0MTBiODQifQ.8FLarolEcKvdPrR0tEQaYFArQ01CHdZWep0g4Fx8UHw","state":"201"}
+2018-12-14 11:12:17 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTM4MzUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJkZDhiNjE4ZC0wY2UzLTQ4NjktYWUyNC0zY2Y1NjFlNDM3NDQifQ.rmnQwRAzrB1cFdxoPPTBj1YNttHsbDC3DVSYPRDee_w","state":"201"}
+2018-12-14 11:16:58 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTQxMTYsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIzYWE2ZjQ3My02ZjRkLTQ1MDYtOTBiOS03ODBkYWM3N2U1OGYifQ.0IGjHXWU7FMDUSlG7-ev1ySG3aqRD8oKxhz6BkPehwc","state":"201"}
+2018-12-14 11:17:26 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTQxNDQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJiNTljZTAyNS1hOTM3LTQ4ZWEtOTQxNS1kODM5ODE1YzRiOGYifQ.T0_Hb_WqrSHCjAwqmSLlO-Pae7y_WvFNURqD24slaJs","state":"201"}
+2018-12-14 11:17:52 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTQxNzAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlNzU1NjNlNy1iZjc2LTQyMjktOGUwZi0zNDU4ZTkwMzMwNzUifQ.fguWvBEWehqd04YEJdfJInsuhXeIfaZQ3-p0s3z8x94","state":"201"}
+2018-12-14 11:43:57 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 11:44:44 info: user test api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-14 11:56:30 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY0ODgsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJmNDgyMmRkYi0yYmQyLTRhYzYtYTBiYS0zNzc0YTIwZDU0NmMifQ.YdrlqYkL5-iGSKL905pTzch_w-RC9iino8SA7w6Trrw","state":"201"}
+2018-12-14 11:56:30 error: util http error -> ReferenceError: header is not defined
+2018-12-14 11:56:31 error: {"message":"Not Found","status":404}
+2018-12-14 11:58:35 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY2MTMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2YTIxMDJjZS05ZDZhLTQ0MTctOTg0ZS02ZThlMmQxYzZlYjYifQ.YHuRLCNDJysdbV_kly8Nx74OXI9FkLfpgc2XDBwbb5M","state":"201"}
+2018-12-14 12:00:15 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY2MTMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2YTIxMDJjZS05ZDZhLTQ0MTctOTg0ZS02ZThlMmQxYzZlYjYifQ.YHuRLCNDJysdbV_kly8Nx74OXI9FkLfpgc2XDBwbb5M","state":"201"}
+2018-12-14 12:00:25 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-14 12:00:26 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTMzMDQsImV4cCI6MTg2MDMyOTMwNCwiaXNzIjoiZnV6ZXgifQ.yzKzYXfoBh5ZK1wvJ8eqjgmr_ZZoOgbCKbz0SrAUKgs","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-13T17:08:22.378Z","use_exchange":null,"is_crypto":"1"}
+2018-12-14 12:00:26 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTY0MjYsImV4cCI6MTg2MDMzMjQyNiwiaXNzIjoiZnV6ZXgifQ.GL2i22wntcEsOBxxPxx1fSHtyR00FTeEe-USXdol5Wk,jhmoon@brilliantts.com
+2018-12-14 12:00:26 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTY0MjYsImV4cCI6MTg2MDMzMjQyNiwiaXNzIjoiZnV6ZXgifQ.GL2i22wntcEsOBxxPxx1fSHtyR00FTeEe-USXdol5Wk","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-14 12:00:33 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY3MzEsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI1YzRiMzVkNy0wMmE0LTQwYTMtOGExYy00MDE1NjJmNjYzOTEifQ.32BTwhg3PqKugfs-D_SwjaRwhAXhFMrmAFkRJrFSm90","state":"201"}
+2018-12-14 12:03:56 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY3MzEsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI1YzRiMzVkNy0wMmE0LTQwYTMtOGExYy00MDE1NjJmNjYzOTEifQ.32BTwhg3PqKugfs-D_SwjaRwhAXhFMrmAFkRJrFSm90","state":"201"}
+2018-12-14 12:04:24 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY5NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhMzc4Y2YzZS1iNDczLTRjYzQtOWQ0ZC03NGJmNWJkYjg1OWMifQ.X-YQyJMF9KeHVZ6pYaIk5ZeP8SdAbi-BSfqWgr9TH1U","state":"201"}
+2018-12-14 12:06:24 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY5NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhMzc4Y2YzZS1iNDczLTRjYzQtOWQ0ZC03NGJmNWJkYjg1OWMifQ.X-YQyJMF9KeHVZ6pYaIk5ZeP8SdAbi-BSfqWgr9TH1U","state":"201"}
+2018-12-14 12:06:31 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY5NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhMzc4Y2YzZS1iNDczLTRjYzQtOWQ0ZC03NGJmNWJkYjg1OWMifQ.X-YQyJMF9KeHVZ6pYaIk5ZeP8SdAbi-BSfqWgr9TH1U","state":"201"}
+2018-12-14 12:07:11 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY5NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhMzc4Y2YzZS1iNDczLTRjYzQtOWQ0ZC03NGJmNWJkYjg1OWMifQ.X-YQyJMF9KeHVZ6pYaIk5ZeP8SdAbi-BSfqWgr9TH1U","state":"201"}
+2018-12-14 12:09:48 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTY5NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhMzc4Y2YzZS1iNDczLTRjYzQtOWQ0ZC03NGJmNWJkYjg1OWMifQ.X-YQyJMF9KeHVZ6pYaIk5ZeP8SdAbi-BSfqWgr9TH1U","state":"201"}
+2018-12-14 12:11:13 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTczNzEsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlN2M4MDE0ZC05ODFkLTQ1Y2MtODI1Mi1iZTZjMzAxNzYyNWQifQ.f9CB4QuL2OOiQ9FWTlMhzZg-EpvwkzkdAqA7buvBJP8","state":"201"}
+2018-12-14 12:12:50 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTczNzEsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlN2M4MDE0ZC05ODFkLTQ1Y2MtODI1Mi1iZTZjMzAxNzYyNWQifQ.f9CB4QuL2OOiQ9FWTlMhzZg-EpvwkzkdAqA7buvBJP8","state":"201"}
+2018-12-14 12:13:15 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc0OTMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI0YzNiMjE4Mi0yZTc4LTQwMzMtYTRjNC0wODVlMmZkZWYyZDUifQ.EA4YVBb3WbNNU5gSW--uj5U9vHaF5uf8x9MkfAjjDNA","state":"201"}
+2018-12-14 12:14:49 info: USER LOGOUT!! -> jhmoon@brilliantts.com
+2018-12-14 12:14:49 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-14 12:14:49 info: OK ->Response Data:: {"result":200,"message":"OK"}
+2018-12-14 12:14:56 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-14 12:14:56 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-13T18:14:47.228Z","use_exchange":null,"is_crypto":"1"}
+2018-12-14 12:14:56 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTcyOTYsImV4cCI6MTg2MDMzMzI5NiwiaXNzIjoiZnV6ZXgifQ.IHD7hHoW-_JBa8jgV72YV-9znswY0PFQkgbNJYzUIag,jhmoon@brilliantts.com
+2018-12-14 12:14:56 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTcyOTYsImV4cCI6MTg2MDMzMzI5NiwiaXNzIjoiZnV6ZXgifQ.IHD7hHoW-_JBa8jgV72YV-9znswY0PFQkgbNJYzUIag","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-14 12:15:04 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc2MDIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI1YmY4ODhlZS02YzlmLTQxYmYtODZlNC1jOWU2OWI3OTEyYTQifQ.I974q-EoIYrmnZY4buWbbI4JrehvIQS2nr5um0T3OwA","state":"201"}
+2018-12-14 12:15:04 error: util http error -> TypeError: Util.stringify is not a function
+2018-12-14 12:15:38 info: USER LOGOUT!! -> jhmoon@brilliantts.com
+2018-12-14 12:15:38 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-14 12:15:38 info: OK ->Response Data:: {"result":200,"message":"OK"}
+2018-12-14 12:15:39 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-14 12:15:40 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-13T18:15:36.662Z","use_exchange":null,"is_crypto":"1"}
+2018-12-14 12:15:40 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTczNDAsImV4cCI6MTg2MDMzMzM0MCwiaXNzIjoiZnV6ZXgifQ.p9ck5cSqtGHvw93y-s8hC8esGIH5fbpMbqqY72DzOqE,jhmoon@brilliantts.com
+2018-12-14 12:15:40 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTczNDAsImV4cCI6MTg2MDMzMzM0MCwiaXNzIjoiZnV6ZXgifQ.p9ck5cSqtGHvw93y-s8hC8esGIH5fbpMbqqY72DzOqE","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-14 12:15:49 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc2NDcsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI4Y2Y0NWNmNi1mMzBjLTRmYWUtOTcxZi1mOWQ0YmI2MTNiOTAifQ.6R6DCalbqLQ_mn0xpKi0rLtte2oXeK5b2cRrfMykTf8","state":"201"}
+2018-12-14 12:19:18 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc2NDcsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI4Y2Y0NWNmNi1mMzBjLTRmYWUtOTcxZi1mOWQ0YmI2MTNiOTAifQ.6R6DCalbqLQ_mn0xpKi0rLtte2oXeK5b2cRrfMykTf8","state":"201"}
+2018-12-14 12:19:31 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc4NjksIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyMTQ0NGRiMy1hYjA4LTQxMzAtYTE3Mi0wOWM1MGJmY2E3NjgifQ.4__9g2KsY8xdDFJu6-JE_NHD--UpDbz0bdHMeFX3O88","state":"201"}
+2018-12-14 12:20:25 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc4NjksIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyMTQ0NGRiMy1hYjA4LTQxMzAtYTE3Mi0wOWM1MGJmY2E3NjgifQ.4__9g2KsY8xdDFJu6-JE_NHD--UpDbz0bdHMeFX3O88","state":"201"}
+2018-12-14 12:20:32 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc5MzAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJkZWI1OWM4Mi04NmJkLTQxYTctOGQzMS00OGRmYjMwZWZmMmIifQ.4V2NQHdvu-jjrdyGLkjjjqSU5jf7XoMj2nH6Di7WdrA","state":"201"}
+2018-12-14 12:21:39 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc5MzAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJkZWI1OWM4Mi04NmJkLTQxYTctOGQzMS00OGRmYjMwZWZmMmIifQ.4V2NQHdvu-jjrdyGLkjjjqSU5jf7XoMj2nH6Di7WdrA","state":"201"}
+2018-12-14 12:23:44 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc5MzAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJkZWI1OWM4Mi04NmJkLTQxYTctOGQzMS00OGRmYjMwZWZmMmIifQ.4V2NQHdvu-jjrdyGLkjjjqSU5jf7XoMj2nH6Di7WdrA","state":"201"}
+2018-12-14 12:26:14 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NTc5MzAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJkZWI1OWM4Mi04NmJkLTQxYTctOGQzMS00OGRmYjMwZWZmMmIifQ.4V2NQHdvu-jjrdyGLkjjjqSU5jf7XoMj2nH6Di7WdrA","state":"201"}
+2018-12-14 13:39:24 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NjI2NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2M2M5OTRjYS1kMGU3LTRkMmItYTNiNy1lNTY0MmNkMjczMmIifQ.PqWqrJHGsZyNZVpOzs-TGtezyFdDRUVpt9u7KLFn7QE","state":"201"}
+2018-12-14 13:44:57 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NjI2NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2M2M5OTRjYS1kMGU3LTRkMmItYTNiNy1lNTY0MmNkMjczMmIifQ.PqWqrJHGsZyNZVpOzs-TGtezyFdDRUVpt9u7KLFn7QE","state":"201"}
+2018-12-14 13:45:12 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NjMwMTAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIwNjlkYjY5Zi1lODM4LTRkMTYtOTA2YS03Mzk5NWE0M2IzYzEifQ.-U-ACCdPYUP7HpVnBomRlhKmE30b7oEHKAx9NTUxgeg","state":"201"}
+2018-12-14 14:28:21 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ3NjU1OTksIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI3OWRkZDVkMS05OTE4LTRlMTItYjNlZi0xZDIwYTE3ZDVjZDYifQ.VchiL_WW76F15222J9tHWtEe4bd0Qo0neWtDP8bmq60","state":"201"}
+2018-12-14 16:54:26 error: {"message":"Not Found","status":404}
+2018-12-14 16:54:46 info: TOKEN_EXPIRED ->Response Data:: {"result":419,"message":"TOKEN_EXPIRED"}
+2018-12-14 16:56:04 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-14 16:56:05 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NTczNDAsImV4cCI6MTg2MDMzMzM0MCwiaXNzIjoiZnV6ZXgifQ.p9ck5cSqtGHvw93y-s8hC8esGIH5fbpMbqqY72DzOqE","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-13T18:15:38.553Z","use_exchange":null,"is_crypto":"1"}
+2018-12-14 16:56:05 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NzQxNjUsImV4cCI6MTg2MDM1MDE2NSwiaXNzIjoiZnV6ZXgifQ.85RQSVCkJOmSKaakA6Q15T895CbVa2EUi7U49zW7c5Y,jhmoon@brilliantts.com
+2018-12-14 16:56:05 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ3NzQxNjUsImV4cCI6MTg2MDM1MDE2NSwiaXNzIjoiZnV6ZXgifQ.85RQSVCkJOmSKaakA6Q15T895CbVa2EUi7U49zW7c5Y","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-14 16:56:37 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 16:57:15 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 16:58:30 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 16:58:33 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 16:58:36 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 16:58:38 info: cobinhood get oAuth state API call!! -> {}
+2018-12-14 17:51:11 info: cobinhood get oAuth state API call!!
+2018-12-14 17:51:19 info: cobinhood get oAuth state API call!!
+2018-12-14 17:51:55 info: cobinhood get oAuth state API call!!
+2018-12-14 18:24:23 info: cobinhood get oAuth state API call!!
+2018-12-14 18:24:23 info: ERROR_GET_COBINHOOD_OAUTH_STATE ->Response Data:: {"result":500,"message":"ERROR_GET_COBINHOOD_OAUTH_STATE"}
+2018-12-14 18:24:23 error: cobinhood client callback API error:: ReferenceError: nonce is not defined
+2018-12-14 18:27:05 info: cobinhood get oAuth state API call!!
+2018-12-14 18:27:05 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477962525900
+2018-12-14 18:27:05 error: cobinhood get oAuth state API error:: ReferenceError: Db is not defined
+2018-12-14 18:27:05 info: ERROR_GET_COBINHOOD_OAUTH_STATE ->Response Data:: {"result":500,"message":"ERROR_GET_COBINHOOD_OAUTH_STATE"}
+2018-12-14 18:27:27 info: cobinhood get oAuth state API call!!
+2018-12-14 18:27:27 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477964770300
+2018-12-14 18:27:27 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477964770300
+2018-12-14 18:27:27 error: Query Error. -> Error: Table 'fuzexdev.cobinhgood_oauth' doesn't exist
+2018-12-14 18:27:27 info: ADD_OAUTH_STATE_FAILED ->Response Data:: {"result":400,"message":"ADD_OAUTH_STATE_FAILED"}
+2018-12-14 18:27:27 error: cobinhood get oAuth state API error:: ReferenceError: info is not defined
+2018-12-14 18:27:27 info: ERROR_GET_COBINHOOD_OAUTH_STATE ->Response Data:: {"result":500,"message":"ERROR_GET_COBINHOOD_OAUTH_STATE"}
+2018-12-14 18:28:28 info: cobinhood get oAuth state API call!!
+2018-12-14 18:28:28 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477970812800
+2018-12-14 18:28:28 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477970812800
+2018-12-14 18:28:28 error: Query Error. -> Error: Table 'fuzexdev.cobinhgood_oauth' doesn't exist
+2018-12-14 18:28:28 error: cobinhood get oAuth state API error:: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2018-12-14 18:28:28 info: ERROR_GET_COBINHOOD_OAUTH_STATE ->Response Data:: {"result":500,"message":"ERROR_GET_COBINHOOD_OAUTH_STATE"}
+2018-12-14 18:28:28 info: ADD_OAUTH_STATE_FAILED ->Response Data:: {"result":400,"message":"ADD_OAUTH_STATE_FAILED"}
+2018-12-14 18:28:28 info: OK -> Response Data:: {"result":200,"message":"OK","data":{"state":154477970812800}}
+2018-12-14 18:30:45 info: cobinhood get oAuth state API call!!
+2018-12-14 18:30:45 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477984563100
+2018-12-14 18:30:45 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477984563100
+2018-12-14 18:30:45 error: Query Error. -> Error: Table 'fuzexdev.cobinhgood_oauth' doesn't exist
+2018-12-14 18:30:45 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154477984563100}}
+2018-12-14 18:30:45 info: ADD_OAUTH_STATE_FAILED ->Response Data:: {"result":400,"message":"ADD_OAUTH_STATE_FAILED"}
+2018-12-14 18:30:45 error: cobinhood get oAuth state API error:: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2018-12-14 18:30:45 info: ERROR_GET_COBINHOOD_OAUTH_STATE ->Response Data:: {"result":500,"message":"ERROR_GET_COBINHOOD_OAUTH_STATE"}
+2018-12-14 18:31:44 info: cobinhood get oAuth state API call!!
+2018-12-14 18:31:44 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477990452000
+2018-12-14 18:31:44 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477990452000
+2018-12-14 18:31:44 error: Query Error. -> Error: Table 'fuzexdev.cobinhgood_oauth' doesn't exist
+2018-12-14 18:31:44 info: ADD_OAUTH_STATE_FAILED ->Response Data:: {"result":400,"message":"ADD_OAUTH_STATE_FAILED"}
+2018-12-14 18:32:42 info: cobinhood get oAuth state API call!!
+2018-12-14 18:32:42 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477996296600
+2018-12-14 18:32:42 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477996296600
+2018-12-14 18:32:43 error: Query Error. -> Error: Table 'fuzexdev.cobinhgood_oauth' doesn't exist
+2018-12-14 18:32:43 info: ADD_OAUTH_STATE_FAILED ->Response Data:: {"result":400,"message":"ADD_OAUTH_STATE_FAILED"}
+2018-12-14 18:32:57 info: cobinhood get oAuth state API call!!
+2018-12-14 18:32:57 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154477997796500
+2018-12-14 18:32:57 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154477997796500
+2018-12-14 18:32:58 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154477997796500}}
+2018-12-14 18:37:10 info: cobinhood get oAuth state API call!!
+2018-12-14 18:37:10 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154478023000900
+2018-12-14 18:37:10 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154478023000900,154478023000900
+2018-12-14 18:37:10 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154478023000900}}
+2018-12-14 18:42:32 info: cobinhood get oAuth state API call!!
+2018-12-14 18:42:32 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154478055280100,154478055280100
+2018-12-14 18:42:32 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154478055280100
+2018-12-14 18:42:32 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154478055280100}}
+2018-12-14 18:42:38 info: cobinhood get oAuth state API call!!
+2018-12-14 18:42:38 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154478055895200
+2018-12-14 18:42:38 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154478055895200,154478055895200
+2018-12-14 18:42:39 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154478055895200}}
+2018-12-14 18:44:00 error: {"message":"Not Found","status":404}
+2018-12-14 18:44:52 error: {"message":"Not Found","status":404}
+2018-12-14 18:50:17 info: cobinhood get oAuth state API call!!
+2018-12-14 18:50:17 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154478101775100
+2018-12-14 18:50:17 info: Send mysql query!! -> addOAuth:: jhmoon@brilliantts.com,154478101775100,154478101775100
+2018-12-14 18:50:17 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154478101775100}}

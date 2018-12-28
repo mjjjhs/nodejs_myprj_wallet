@@ -1,0 +1,78 @@
+2018-11-28 11:42:23 error: {"message":"Not Found"}
+2018-11-28 11:44:30 error: {"message":"Not Found"}
+2018-11-28 11:44:48 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 11:44:48 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0038758234}}
+2018-11-28 11:45:23 error: {}
+2018-11-28 11:46:41 error: {}
+2018-11-28 11:47:45 error: {}
+2018-11-28 11:48:23 error: {}
+2018-11-28 11:49:01 error: {}
+2018-11-28 11:49:16 error: {}
+2018-11-28 11:49:34 error: {}
+2018-11-28 11:49:46 error: {}
+2018-11-28 11:52:18 error: {}
+2018-11-28 11:52:36 error: {}
+2018-11-28 11:53:18 error: {"message":"Not Found"}
+2018-11-28 12:10:51 error: {}
+2018-11-28 12:12:33 error: {}
+2018-11-28 12:13:41 error: {}
+2018-11-28 12:14:19 error: {}
+2018-11-28 12:14:43 error: {}
+2018-11-28 12:15:10 error: {}
+2018-11-28 12:17:20 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 12:17:21 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0038744871}}
+2018-11-28 12:17:36 error: {"message":"Not Found"}
+2018-11-28 12:19:41 error: {"message":"Not Found"}
+2018-11-28 12:20:51 error: {"message":"Not Found"}
+2018-11-28 12:21:20 error: {"message":"Not Found"}
+2018-11-28 12:22:14 error: {"message":"Not Found"}
+2018-11-28 12:24:42 error: {"status":404}
+2018-11-28 12:26:03 error: {"status":404}
+2018-11-28 12:26:30 error: {"status":404}
+2018-11-28 12:27:09 error: {"status":404}
+2018-11-28 12:28:45 error: {"status":404}
+2018-11-28 12:28:54 error: {"status":404}
+2018-11-28 13:49:30 error: {"message":{}}
+2018-11-28 13:49:43 error: {"message":{}}
+2018-11-28 13:50:40 error: {"message":{},"status":404}
+2018-11-28 13:51:49 error: {"message":{},"status":404}
+2018-11-28 13:52:53 error: {"status":404}
+2018-11-28 13:54:11 error: {"message":"Not Found","status":404}
+2018-11-28 14:07:01 error: {}
+2018-11-28 14:12:55 error: {}
+2018-11-28 14:16:02 error: {"message":"Gone"}
+2018-11-28 14:20:34 error: {"message":"Gone"}
+2018-11-28 14:21:25 error: {"message":"Gone"}
+2018-11-28 14:23:56 error: {"message":"Gone","status":410}
+2018-11-28 14:25:18 error: {"message":"Gone"}
+2018-11-28 14:30:19 error: {"message":"Gone","status":410}
+2018-11-28 14:30:25 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 14:30:27 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0039485198}}
+2018-11-28 14:30:35 error: {"status":500}
+2018-11-28 14:31:08 error: {"status":200}
+2018-11-28 14:31:24 error: {"message":"Gone","status":200}
+2018-11-28 14:31:31 error: {"message":"Gone","status":410}
+2018-11-28 14:40:49 error: {"status":500}
+2018-11-28 14:42:01 error: {"status":500}
+2018-11-28 14:46:02 error: {"message":"Not Found","status":404}
+2018-11-28 14:51:41 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 14:51:42 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0039287531}}
+2018-11-28 14:51:46 error: {"message":"Not Found","status":404}
+2018-11-28 14:52:08 error: {"message":"Gone","status":410}
+2018-11-28 14:52:12 error: {"message":"Not Found","status":404}
+2018-11-28 14:52:31 error: {"message":"Not Found","status":404}
+2018-11-28 14:52:40 error: {"message":"Not Found","status":404}
+2018-11-28 14:52:42 error: {"message":"Not Found","status":404}
+2018-11-28 14:52:53 error: {"message":"Not Found","status":404}
+2018-11-28 14:53:09 error: {"message":"Not Found","status":404}
+2018-11-28 14:53:17 error: {"message":"Not Found","status":404}
+2018-11-28 14:53:19 error: {"message":"Not Found","status":404}
+2018-11-28 14:53:29 error: {"message":"Not Found","status":404}
+2018-11-28 14:53:33 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 14:53:33 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0039287531}}
+2018-11-28 14:53:38 error: {"message":"Gone","status":410}
+2018-11-28 14:56:02 error: {"message":"Not Found","status":404}
+2018-11-28 14:56:07 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-28 14:56:07 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0039188274}}
+2018-11-28 14:56:12 error: {"message":"Not Found","status":404}
+2018-11-28 14:56:15 error: {"message":"Not Found","status":404}

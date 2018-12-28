@@ -1,0 +1,71 @@
+2018-11-27 09:28:55 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 09:30:58 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 09:30:58 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0036712349}}
+2018-11-27 14:27:41 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 14:27:42 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034458203}}
+2018-11-27 14:27:57 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 14:27:57 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034458203}}
+2018-11-27 15:06:24 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:06:24 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034417409}}
+2018-11-27 15:07:00 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:07:00 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034417409}}
+2018-11-27 15:07:44 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:07:44 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034417409}}
+2018-11-27 15:08:34 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:08:35 error: tx approval api error. -> TypeError: Cannot read property 'symbol' of undefined
+2018-11-27 15:08:56 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:08:56 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034365068}}
+2018-11-27 15:14:52 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:14:53 error: tx approval api error. -> Error: Request failed with status code 404
+2018-11-27 15:16:05 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:16:05 error: tx approval api error. -> Error: Request failed with status code 404
+2018-11-27 15:16:21 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:16:22 error: tx approval api error. -> Error: Request failed with status code 404
+2018-11-27 15:16:57 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:16:58 error: tx approval api error. -> Error: Request failed with status code 404
+2018-11-27 15:17:38 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:17:38 error: tx approval api error. -> Error: Request failed with status code 404
+2018-11-27 15:18:21 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:18:22 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034201174}}
+2018-11-27 15:24:33 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:24:33 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:26:01 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:26:01 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:28:17 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:28:17 error: tx approval api error. -> TypeError: Cannot read property 'selected_crypto_symbol' of undefined
+2018-11-27 15:29:42 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:29:42 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:29:55 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:29:55 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:30:02 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:30:02 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:30:43 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:30:43 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:30:55 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:30:55 error: tx approval api error. -> ReferenceError: resData is not defined
+2018-11-27 15:31:05 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:31:05 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:31:33 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:31:33 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:31:44 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:31:44 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:32:09 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:32:09 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:32:30 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:32:30 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:32:55 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:32:55 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 15:33:10 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 15:33:10 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 16:01:57 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:01:57 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 16:02:37 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:02:37 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 16:03:12 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:03:12 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:03:12 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 16:05:44 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:05:44 error: tx approval api error. -> ReferenceError: util is not defined
+2018-11-27 16:05:44 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:07:49 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-11-27 16:07:50 info: tx approval api response. {"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":"12341234123412341234.2121212121212121","finalCryptoBal":"12341234123412341234.2121212121212121","cryptoCurrency":"FXT","currentRate":0.0034690137}}

@@ -1,0 +1,62 @@
+2018-12-13 10:24:21 error: {"message":"Not Found","status":404}
+2018-12-13 10:49:58 error: {"message":"Not Found","status":404}
+2018-12-13 10:50:01 error: {"message":"Not Found","status":404}
+2018-12-13 10:50:20 error: {"message":"Not Found","status":404}
+2018-12-13 10:50:21 error: {"message":"Not Found","status":404}
+2018-12-13 17:00:35 error: {"message":"Not Found","status":404}
+2018-12-13 17:00:35 error: {"message":"Not Found","status":404}
+2018-12-13 17:12:44 error: {"message":"Not Found","status":404}
+2018-12-13 17:12:45 error: {"message":"Not Found","status":404}
+2018-12-13 17:13:10 error: {"message":"Not Found","status":404}
+2018-12-13 17:13:32 error: {"message":"Not Found","status":404}
+2018-12-13 17:13:41 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:50 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:51 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:52 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:52 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:53 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:53 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:53 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:53 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:53 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:54 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:54 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:55 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:55 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:55 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:56 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:56 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:56 error: {"message":"Not Found","status":404}
+2018-12-13 17:14:59 error: {"message":"Not Found","status":404}
+2018-12-13 17:15:04 error: {"message":"Not Found","status":404}
+2018-12-13 17:15:09 error: {"message":"Not Found","status":404}
+2018-12-13 17:16:35 error: {"message":"Not Found","status":404}
+2018-12-13 17:17:05 error: {"message":"Not Found","status":404}
+2018-12-13 17:17:06 error: {"message":"Not Found","status":404}
+2018-12-13 17:17:06 error: {"message":"Not Found","status":404}
+2018-12-13 17:17:07 error: {"message":"Not Found","status":404}
+2018-12-13 17:17:07 error: {"message":"Not Found","status":404}
+2018-12-13 17:36:29 error: {"status":500}
+2018-12-13 17:37:20 error: {"status":500}
+2018-12-13 17:37:41 error: {"status":500}
+2018-12-13 17:37:48 error: {"status":500}
+2018-12-13 17:38:25 info: Cobinhood Callback Call -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTA1NDAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI1MjVhY2RkNy01MDE2LTRhZjItYjIxZi1lYWVmZTUxYTI0M2EifQ.Kn7cBAKUs8KrgWPuzffz88-xxa27L5lI2RGrmugqkZo","state":"201"}
+2018-12-13 17:57:33 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NTMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlNWQxNzAyMS0wMTkwLTQ4ZjQtYTRiMi01MGM4MGQ3NDQzMDMifQ.WhckuQso98vfZcLSjiPvD9WPJBCWef91nyH0igczefQ","state":"201"}
+2018-12-13 17:57:36 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NTYsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlYWUwZDU3MS05N2ZjLTQ3ZmQtYmIwYi1iZjI1YjkyODg5NmEifQ.aedPNb5jfuHcRYRAkA6Fw0h-lipKHCmguByAAl8OLMs","state":"201"}
+2018-12-13 17:57:37 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NTcsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyMGNhY2Q0Mi0xOGM0LTRlOTUtOTdhNC00OWExYjMyMmNkYzAifQ.Kpiv9HS49mZzSQHiEYoVDWonBDaR8n6kX79CAyFGsQo","state":"201"}
+2018-12-13 17:57:38 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NTgsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyMWQwYWJjZC1kM2RjLTQzYjAtOTVlMC1hMjQ0NGE0YjE0OTAifQ.PcE5O3abD-QiUlGodyaKSKOeIMGR2OBIdORLMgwJJcQ","state":"201"}
+2018-12-13 17:57:39 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NTksIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyY2E0ZWZiNS1jNWUxLTQzZGMtOGQ3NC02Yjk0NzliNzhhOTQifQ.kQ8P6lWu3PbArktk12zVYGx_9Eab4OgyHdp1IjnRXRY","state":"201"}
+2018-12-13 17:57:40 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjAsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIwM2YwYTc3OS0yOWU4LTQwZmItOTJhOC04NzdkYmQ0ZmU1ZmUifQ.TyExVU57-ENEPPnYu_Re-KD7sZk5zYhMFnqAJkvxNzg","state":"201"}
+2018-12-13 17:57:41 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjEsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJmZWQyZjk3Zi1hYTFkLTQ4YjAtOTA3Mi01M2QwNTE3NWU2ZmQifQ.FFjAuX4fovFpqs2kWMbMqpeJWl_xQSXCoNdGF6KslKU","state":"201"}
+2018-12-13 17:57:42 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjIsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJiZjc0MzRlOC1lYWQxLTQxZjktYjVlZS1lNzYyMTQzYjQ4YTIifQ.WyPC4U485mPagNerhLnMXrXoQRHG5k42r3eF0NyMT7Y","state":"201"}
+2018-12-13 17:57:43 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJhNTZhZGY3Ny1iODg3LTQzNDUtYjJiNi1iZGJhMGJkOTQxYmIifQ.DaWhpIPpdm5T-10DEEzNCDpE5u3lKjZxsrVL1_gihaw","state":"201"}
+2018-12-13 17:57:44 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlMjFhNTQ5NC01YzliLTRlMDctYjgxZS1lYWUxZjNlZDdiNjMifQ.MzpU83ksrGvOid3JjY6-AczWvkhaN0t8BTGHMk1pZbE","state":"201"}
+2018-12-13 17:57:45 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2NmIwYmMxMC1jZDkyLTRjNDQtYWRjNi1mMDg1OTNmOTA4YjkifQ.N_x259fprucTa6deDzVtgWaZxfANS_rplj2kZa42Luc","state":"201"}
+2018-12-13 17:57:51 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2NmIwYmMxMC1jZDkyLTRjNDQtYWRjNi1mMDg1OTNmOTA4YjkifQ.N_x259fprucTa6deDzVtgWaZxfANS_rplj2kZa42Luc","state":"201"}
+2018-12-13 17:58:52 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE3NjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2NmIwYmMxMC1jZDkyLTRjNDQtYWRjNi1mMDg1OTNmOTA4YjkifQ.N_x259fprucTa6deDzVtgWaZxfANS_rplj2kZa42Luc","state":"201"}
+2018-12-13 17:59:14 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE4NTQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlMzYyOTIwYi01YmYyLTQ3MDAtOWY2YS01NTEzYzIzMWY5MDIifQ.HoF-koJ5Foeu4mv6wLOCXwgLpmPOuBxkf59Sy7xoWXE","state":"201"}
+2018-12-13 18:02:24 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE4NTQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlMzYyOTIwYi01YmYyLTQ3MDAtOWY2YS01NTEzYzIzMWY5MDIifQ.HoF-koJ5Foeu4mv6wLOCXwgLpmPOuBxkf59Sy7xoWXE","state":"201"}
+2018-12-13 18:04:29 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE4NTQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlMzYyOTIwYi01YmYyLTQ3MDAtOWY2YS01NTEzYzIzMWY5MDIifQ.HoF-koJ5Foeu4mv6wLOCXwgLpmPOuBxkf59Sy7xoWXE","state":"201"}
+2018-12-13 18:07:17 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTE4NTQsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiJlMzYyOTIwYi01YmYyLTQ3MDAtOWY2YS01NTEzYzIzMWY5MDIifQ.HoF-koJ5Foeu4mv6wLOCXwgLpmPOuBxkf59Sy7xoWXE","state":"201"}
+2018-12-13 18:11:23 info: Cobinhood Client Redirect!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDQ2OTI1ODMsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI0OWNiNzA5ZC1mM2RjLTQ1YzItOWNiZC1iMDY2NzBiYjk5NGQifQ.AIDa0eKOrCxsNL_umQTXVnneNmmzk7ADeVV8FosUqOc","state":"201"}
+2018-12-13 18:11:24 error: {"message":"Not Found","status":404}

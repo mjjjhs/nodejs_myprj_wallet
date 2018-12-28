@@ -1,0 +1,572 @@
+2018-12-27 09:23:02 info: get cobinhood balance api call!!
+2018-12-27 09:23:02 info: getUserCobinhoodBalnace api call!!
+2018-12-27 09:23:02 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 09:23:02 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 09:23:03 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"52.2340599711","btc_value":"0.013589004"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2749.639501323624624","btc_value":"0.71533533246552"}]}}
+2018-12-27 09:23:03 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"52.2340599711","btc_value":"0.013589004"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2749.639501323624624","btc_value":"0.71533533246552"}]}}
+2018-12-27 09:23:04 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-27 09:23:04 error: {"message":"Not Found","status":404}
+2018-12-27 09:23:33 info: get cobinhood balance api call!!
+2018-12-27 09:23:33 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 09:23:33 info: getUserCobinhoodBalnace api call!!
+2018-12-27 09:23:33 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 09:23:33 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"52.2340599711","btc_value":"0.013589004"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2749.639501323624624","btc_value":"0.71533533246552"}]}}
+2018-12-27 09:23:33 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"52.2340599711","btc_value":"0.013589004"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2749.639501323624624","btc_value":"0.71533533246552"}]}}
+2018-12-27 09:23:35 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-27 11:15:50 error: {"message":"Not Found","status":404}
+2018-12-27 11:18:28 info: get cobinhood balance api call!!
+2018-12-27 11:18:28 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:18:28 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:18:28 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:18:29 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8881986703","btc_value":"0.013360488"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2707.829842331672916","btc_value":"0.71092964089836"}]}}
+2018-12-27 11:18:29 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8881986703","btc_value":"0.013360488"},{"currency":"ETH","type":"exchange","total":"21.006492","on_order":"0","locked":false,"usd_value":"2707.829842331672916","btc_value":"0.71092964089836"}]}}
+2018-12-27 11:19:26 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:19:26 info: tx approval api -> get balance
+2018-12-27 11:19:26 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:19:27 error: util stringify error -> TypeError: Converting circular structure to JSON
+2018-12-27 11:19:27 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:19:27 info: get coin market cap data:: undefined
+2018-12-27 11:19:27 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:19:27 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:19:27 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"177.003554","tranAmtToCryptoCurrency":"0.282480","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:19:27 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":177.003554,"fiatCurrency":"SGD"}}
+2018-12-27 11:22:12 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:22:12 info: tx approval api -> get balance
+2018-12-27 11:22:12 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:22:12 info: get coin market cap data:: [object Object]
+2018-12-27 11:22:12 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:22:12 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:22:12 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:22:13 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.860589","tranAmtToCryptoCurrency":"0.282708","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:22:13 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":176.860589,"fiatCurrency":"SGD"}}
+2018-12-27 11:22:56 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:22:56 info: tx approval api -> get balance
+2018-12-27 11:22:56 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:22:56 error: util stringify error -> TypeError: Converting circular structure to JSON
+2018-12-27 11:22:56 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:22:56 info: get coin market cap data:: undefined
+2018-12-27 11:22:56 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:22:56 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:22:57 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.860589","tranAmtToCryptoCurrency":"0.282708","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:22:57 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":176.860589,"fiatCurrency":"SGD"}}
+2018-12-27 11:23:18 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:23:18 info: tx approval api -> get balance
+2018-12-27 11:23:18 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:23:19 info: get coin market cap data:: [object Object]
+2018-12-27 11:23:19 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:23:19 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:23:19 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:23:19 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.860589","tranAmtToCryptoCurrency":"0.282708","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:23:19 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":176.860589,"fiatCurrency":"SGD"}}
+2018-12-27 11:23:43 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:23:43 info: tx approval api -> get balance
+2018-12-27 11:23:43 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:23:43 info: get coin market cap data:: {"data":{"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104030913,"total_supply":104030913,"max_supply":null,"quotes":{"USD":{"price":128.850786451,"volume_24h":2596267035.79982,"market_cap":13404465020,"percent_change_1h":-2.13,"percent_change_24h":-4.32,"percent_change_7d":25.75},"SGD":{"price":176.8605894826,"volume_24h":3563636133.3388314,"market_cap":18398968686,"percent_change_1h":-2.13,"percent_change_24h":-4.32,"percent_change_7d":25.75}},"last_updated":1545877278},"metadata":{"timestamp":1545876432,"error":null}}
+2018-12-27 11:23:43 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:23:43 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:23:43 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:23:43 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.860589","tranAmtToCryptoCurrency":"0.282708","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:23:43 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":176.860589,"fiatCurrency":"SGD"}}
+2018-12-27 11:25:32 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:25:32 info: tx approval api -> get balance
+2018-12-27 11:25:32 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:25:32 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104030913,"total_supply":104030913,"max_supply":null,"quotes":{"USD":{"price":128.803580915,"volume_24h":2593554213.18634,"market_cap":13399554185,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68},"SGD":{"price":176.8039097895,"volume_24h":3560075906.935002,"market_cap":18393072246,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68}},"last_updated":1545877519}
+2018-12-27 11:25:32 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:25:32 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:25:32 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:25:33 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.803909","tranAmtToCryptoCurrency":"0.282799","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:25:33 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":21.006492,"cryptoCurrency":"ETH","currentRate":176.803909,"fiatCurrency":"SGD"}}
+2018-12-27 11:25:40 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":2,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:25:40 info: tx approval api -> transfer user cobinhood wallet to fuzex cobinhood wallet
+2018-12-27 11:25:40 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:25:42 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104030913,"total_supply":104030913,"max_supply":null,"quotes":{"USD":{"price":128.803580915,"volume_24h":2593554213.18634,"market_cap":13399554185,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68},"SGD":{"price":176.8039097895,"volume_24h":3560075906.935002,"market_cap":18393072246,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68}},"last_updated":1545877519}
+2018-12-27 11:25:42 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:25:42 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:25:42 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:25:43 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.006492","currentRate":"176.803909","tranAmtToCryptoCurrency":"0.011311","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:25:43 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:25:43 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:25:43 info: TX transferCobinhood api call!!
+2018-12-27 11:25:44 info: transferCobinhood API result:: {"success":true,"result":{"internal_withdrawal_to_client_owner":{"generic_withdrawal_id":"9f6a9293-b111-4a50-b681-6f912d94424d","internal_transfer_hash":"04a2d7d0f87b36f56df0eabad0b38a9648448e019056b69735998214478ff5df"}}}
+2018-12-27 11:25:44 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.006492,"finalCryptoBal":20.995181,"cryptoCurrency":"ETH","currentRate":176.803909,"fiatCurrency":"SGD"}}
+2018-12-27 11:25:49 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 11:25:49 info: tx approval api -> get balance
+2018-12-27 11:25:49 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 11:25:49 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104030913,"total_supply":104030913,"max_supply":null,"quotes":{"USD":{"price":128.803580915,"volume_24h":2593554213.18634,"market_cap":13399554185,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68},"SGD":{"price":176.8039097895,"volume_24h":3560075906.935002,"market_cap":18393072246,"percent_change_1h":-1.83,"percent_change_24h":-4.41,"percent_change_7d":25.68}},"last_updated":1545877519}
+2018-12-27 11:25:49 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:25:49 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:25:49 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:25:50 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.995181","currentRate":"176.803909","tranAmtToCryptoCurrency":"0.282799","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 11:25:50 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":20.995181,"finalCryptoBal":20.995181,"cryptoCurrency":"ETH","currentRate":176.803909,"fiatCurrency":"SGD"}}
+2018-12-27 11:33:52 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545814755,"exp":1861390755,"iss":"fuzex"}
+2018-12-27 11:33:52 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 11:33:52 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 11:33:56 info: passport login callback func start!! -> false
+2018-12-27 11:33:56 info: NOT_A_MEMBER. ->Response Data:: {"result":400,"message":"NOT_A_MEMBER."}
+2018-12-27 11:34:03 info: passport login callback func start!! -> false
+2018-12-27 11:34:03 info: NOT_A_MEMBER. ->Response Data:: {"result":400,"message":"NOT_A_MEMBER."}
+2018-12-27 11:34:24 error: {"message":"Not Found","status":404}
+2018-12-27 11:34:38 info: user join api call:: {"email":"jhmoon@brilliantts.com","pw":"Moon6212!","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-27 11:34:38 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 11:34:38 info: user join api success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 11:35:26 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$JAWWvAZWV612cp4uZVu.wuaIWwuIHsRywEcYNOvJvlzFXEdFJ5XJ2","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1","created_at":"2018-12-26T17:34:36.709Z","modified_at":"2018-12-26T17:35:05.724Z"}
+2018-12-27 11:35:26 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgxMjYsImV4cCI6MTg2MTQ1NDEyNiwiaXNzIjoiZnV6ZXgifQ.-US4SMvYC2d5TOi92k1NxXiUpRCjhCjknh-mCUL7hOg","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:35:26 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgxMjYsImV4cCI6MTg2MTQ1NDEyNiwiaXNzIjoiZnV6ZXgifQ.-US4SMvYC2d5TOi92k1NxXiUpRCjhCjknh-mCUL7hOg
+2018-12-27 11:35:26 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgxMjYsImV4cCI6MTg2MTQ1NDEyNiwiaXNzIjoiZnV6ZXgifQ.-US4SMvYC2d5TOi92k1NxXiUpRCjhCjknh-mCUL7hOg","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:35:32 info: get cobinhood oAuth state API call!!
+2018-12-27 11:35:32 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154587813200500
+2018-12-27 11:35:32 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587813200500}}
+2018-12-27 11:35:32 info: get cobinhood oAuth state success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587813200500}}
+2018-12-27 11:36:07 info: cobinhood client callback API call!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg0NjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2ZjIzYWQ3Yy04YWNlLTRjYTItYmMwYy1lZTM3NzgxNzRhOTcifQ.r2GIoloAgmTI0Jbf5pv46qvvLiT02s7zgDUnsCCkWFk","state":"154587813200500"}
+2018-12-27 11:36:07 info: getUserFuzeXEmailToCobinhoodOAuthState API call!!
+2018-12-27 11:36:07 info: cobinhood get token API call!! -> param::grant_type=authorization_code&code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg0NjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2ZjIzYWQ3Yy04YWNlLTRjYTItYmMwYy1lZTM3NzgxNzRhOTcifQ.r2GIoloAgmTI0Jbf5pv46qvvLiT02s7zgDUnsCCkWFk&redirect_uri=http%3A%2F%2F192.168.1.173%3A33000%2Fauth%2Fcobinhood%2Fcallback&client_id=a224d1dd-2625-4b68-be70-8126d6221f3b headers::{"Authorization":"Basic YTIyNGQxZGQtMjYyNS00YjY4LWJlNzAtODEyNmQ2MjIxZjNiOjNsZXFJRFlLa2V0NzBnbHVjWU11dkBOQHdJejhFS3VsRWxJbjlZbm9jWnVOSXFFc2VsdXpjMGM=","Content-Type":"application/x-www-form-urlencoded"}
+2018-12-27 11:36:07 error: cobinhood get token API error:: Error: Request failed with status code 400
+2018-12-27 11:36:07 info: get cobinhood token failed!! -> token::false
+2018-12-27 11:37:09 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$JAWWvAZWV612cp4uZVu.wuaIWwuIHsRywEcYNOvJvlzFXEdFJ5XJ2","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1","created_at":"2018-12-26T17:34:36.709Z","modified_at":"2018-12-26T17:35:05.724Z"}
+2018-12-27 11:37:09 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgyMjksImV4cCI6MTg2MTQ1NDIyOSwiaXNzIjoiZnV6ZXgifQ.9bqmiNmjgbGt-a7bYL67TezX3kqs0FI86Jbq1NaEw4c","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:37:09 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgyMjksImV4cCI6MTg2MTQ1NDIyOSwiaXNzIjoiZnV6ZXgifQ.9bqmiNmjgbGt-a7bYL67TezX3kqs0FI86Jbq1NaEw4c","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:37:09 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4NzgyMjksImV4cCI6MTg2MTQ1NDIyOSwiaXNzIjoiZnV6ZXgifQ.9bqmiNmjgbGt-a7bYL67TezX3kqs0FI86Jbq1NaEw4c
+2018-12-27 11:37:13 info: get cobinhood oAuth state API call!!
+2018-12-27 11:37:13 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154587823309300
+2018-12-27 11:37:13 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587823309300}}
+2018-12-27 11:37:13 info: get cobinhood oAuth state success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587823309300}}
+2018-12-27 11:37:18 info: cobinhood client callback API call!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg1MzYsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyZTllMzRmOS1hMmMzLTRjOTgtOTRjMi0yMDg2NTI5MWM3ZDgifQ.eq1wgFZPZuhEXpzFcWTrj4qJsA6IDna6K2WdAfcwqZM","state":"154587823309300"}
+2018-12-27 11:37:18 info: getUserFuzeXEmailToCobinhoodOAuthState API call!!
+2018-12-27 11:37:18 info: cobinhood get token API call!! -> param::grant_type=authorization_code&code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg1MzYsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiIyZTllMzRmOS1hMmMzLTRjOTgtOTRjMi0yMDg2NTI5MWM3ZDgifQ.eq1wgFZPZuhEXpzFcWTrj4qJsA6IDna6K2WdAfcwqZM&redirect_uri=http%3A%2F%2F192.168.1.173%3A33000%2Fauth%2Fcobinhood%2Fcallback&client_id=a224d1dd-2625-4b68-be70-8126d6221f3b headers::{"Authorization":"Basic YTIyNGQxZGQtMjYyNS00YjY4LWJlNzAtODEyNmQ2MjIxZjNiOjNsZXFJRFlLa2V0NzBnbHVjWU11dkBOQHdJejhFS3VsRWxJbjlZbm9jWnVOSXFFc2VsdXpjMGM=","Content-Type":"application/x-www-form-urlencoded"}
+2018-12-27 11:37:18 error: cobinhood get token API error:: Error: Request failed with status code 400
+2018-12-27 11:37:18 info: get cobinhood token failed!! -> token::false
+2018-12-27 11:43:17 info: user join api call:: {"email":"jhmoon@brilliantts.com","pw":"Moon6212!","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-27 11:43:18 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 11:43:18 info: user join api success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 11:43:48 info: get fuzex user info api call!!
+2018-12-27 11:43:48 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}]}
+2018-12-27 11:43:48 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}]}
+2018-12-27 11:43:53 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545878229,"exp":1861454229,"iss":"fuzex"}
+2018-12-27 11:43:53 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 11:43:53 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 11:43:55 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$TrBxwIS7wbh26Nc8pkVjM.KvvqDExQNB/dk8IffaxI2Xo3EGkoTRW","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1","created_at":"2018-12-26T17:43:16.081Z","modified_at":"2018-12-26T17:43:23.506Z"}
+2018-12-27 11:43:55 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4Nzg2MzUsImV4cCI6MTg2MTQ1NDYzNSwiaXNzIjoiZnV6ZXgifQ.XkPelw5ZfULnrNp39nI1EdyPnkmVElGsg-dFelxBPYM
+2018-12-27 11:43:55 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4Nzg2MzUsImV4cCI6MTg2MTQ1NDYzNSwiaXNzIjoiZnV6ZXgifQ.XkPelw5ZfULnrNp39nI1EdyPnkmVElGsg-dFelxBPYM","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:43:55 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4Nzg2MzUsImV4cCI6MTg2MTQ1NDYzNSwiaXNzIjoiZnV6ZXgifQ.XkPelw5ZfULnrNp39nI1EdyPnkmVElGsg-dFelxBPYM","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 11:43:59 info: get cobinhood oAuth state API call!!
+2018-12-27 11:43:59 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154587863907400
+2018-12-27 11:43:59 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587863907400}}
+2018-12-27 11:43:59 info: get cobinhood oAuth state success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587863907400}}
+2018-12-27 11:44:20 info: get cobinhood oAuth state API call!!
+2018-12-27 11:44:20 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154587866088900
+2018-12-27 11:44:20 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587866088900}}
+2018-12-27 11:44:20 info: get cobinhood oAuth state success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154587866088900}}
+2018-12-27 11:44:39 info: cobinhood client callback API call!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg5NzcsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2ZWYxOTU3OC0xOGU0LTQwYzMtODJhZi05NmNhODQ4YzNiOTIifQ.WvFPeT3Z5BKzgfYX4CO9DAnohE6ShCL2vBYBtWsgnQ0","state":"154587866088900"}
+2018-12-27 11:44:39 info: getUserFuzeXEmailToCobinhoodOAuthState API call!!
+2018-12-27 11:44:39 info: cobinhood get token API call!! -> param::grant_type=authorization_code&code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4Nzg5NzcsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI2ZWYxOTU3OC0xOGU0LTQwYzMtODJhZi05NmNhODQ4YzNiOTIifQ.WvFPeT3Z5BKzgfYX4CO9DAnohE6ShCL2vBYBtWsgnQ0&redirect_uri=http%3A%2F%2Flocalhost%3A33000%2Fauth%2Fcobinhood%2Fcallback&client_id=a224d1dd-2625-4b68-be70-8126d6221f3b headers::{"Authorization":"Basic YTIyNGQxZGQtMjYyNS00YjY4LWJlNzAtODEyNmQ2MjIxZjNiOjNsZXFJRFlLa2V0NzBnbHVjWU11dkBOQHdJejhFS3VsRWxJbjlZbm9jWnVOSXFFc2VsdXpjMGM=","Content-Type":"application/x-www-form-urlencoded"}
+2018-12-27 11:44:40 info: get cobinhood token!! -> {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU4ODIyNzgsIm9hdXRoMl9hY2Nlc3NfdG9rZW5faWQiOiI2MWZlNmI5ZC1kNjE3LTRkMWItYTQ1My01ZDUxMGE4MGRkYmIiLCJzY29wZSI6WyJzY29wZV90aGlyZF9wYXJ0eV9pbnRlcm5hbF93aXRoZHJhdyIsInNjb3BlX2V4Y2hhbmdlX2xlZGdlcl9yZWFkIiwic2NvcGVfdGhpcmRfcGFydHlfYWNjb3VudF9yZWFkIl0sInVzZXJfaWQiOiIzODA5MzQ1Ny1mNzEwLTQ4OTAtYjhmNS0wYTA3MmVkOTcxYzgifQ.djfwc7qAf6PKi9pP06G0ae_2aJWIu-dnuyaRuV-zGiM","expires_in":3600,"refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU5NjUwNzgsIm9hdXRoMl9yZWZyZXNoX3Rva2VuX2lkIjoiNDI5NTQ3MGUtZDViNC00MWM0LWFhODUtNWJmZmQyOGU5NzM3Iiwic2NvcGUiOlsic2NvcGVfdGhpcmRfcGFydHlfaW50ZXJuYWxfd2l0aGRyYXciLCJzY29wZV9leGNoYW5nZV9sZWRnZXJfcmVhZCIsInNjb3BlX3RoaXJkX3BhcnR5X2FjY291bnRfcmVhZCJdLCJ1c2VyX2lkIjoiMzgwOTM0NTctZjcxMC00ODkwLWI4ZjUtMGEwNzJlZDk3MWM4In0.MypvJYxGjQBwvEOFaw_EGxJF15O09sST0Ep4x07R31M","scope":"scope_third_party_internal_withdraw scope_exchange_ledger_read scope_third_party_account_read","token_type":"Bearer"}
+2018-12-27 11:44:40 info: setCobinhoodOAuthTokenAndUserUseExchange API call!! --> {"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU4ODIyNzgsIm9hdXRoMl9hY2Nlc3NfdG9rZW5faWQiOiI2MWZlNmI5ZC1kNjE3LTRkMWItYTQ1My01ZDUxMGE4MGRkYmIiLCJzY29wZSI6WyJzY29wZV90aGlyZF9wYXJ0eV9pbnRlcm5hbF93aXRoZHJhdyIsInNjb3BlX2V4Y2hhbmdlX2xlZGdlcl9yZWFkIiwic2NvcGVfdGhpcmRfcGFydHlfYWNjb3VudF9yZWFkIl0sInVzZXJfaWQiOiIzODA5MzQ1Ny1mNzEwLTQ4OTAtYjhmNS0wYTA3MmVkOTcxYzgifQ.djfwc7qAf6PKi9pP06G0ae_2aJWIu-dnuyaRuV-zGiM","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU5NjUwNzgsIm9hdXRoMl9yZWZyZXNoX3Rva2VuX2lkIjoiNDI5NTQ3MGUtZDViNC00MWM0LWFhODUtNWJmZmQyOGU5NzM3Iiwic2NvcGUiOlsic2NvcGVfdGhpcmRfcGFydHlfaW50ZXJuYWxfd2l0aGRyYXciLCJzY29wZV9leGNoYW5nZV9sZWRnZXJfcmVhZCIsInNjb3BlX3RoaXJkX3BhcnR5X2FjY291bnRfcmVhZCJdLCJ1c2VyX2lkIjoiMzgwOTM0NTctZjcxMC00ODkwLWI4ZjUtMGEwNzJlZDk3MWM4In0.MypvJYxGjQBwvEOFaw_EGxJF15O09sST0Ep4x07R31M","scope":"scope_third_party_internal_withdraw scope_exchange_ledger_read scope_third_party_account_read","tokenType":"Bearer","fuzexEmail":"jhmoon@brilliantts.com"}
+2018-12-27 11:44:40 info: get fuzex user info api call!!
+2018-12-27 11:44:40 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":"COBINHOOD","is_crypto":"1"}]}
+2018-12-27 11:44:40 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":"COBINHOOD","is_crypto":"1"}]}
+2018-12-27 11:44:56 info: get cobinhood balance api call!!
+2018-12-27 11:44:56 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 11:44:56 info: getUserCobinhoodBalnace api call!!
+2018-12-27 11:44:56 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 11:44:57 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.1274572932","btc_value":"0.013449486"},{"currency":"ETH","type":"exchange","total":"20.995181","on_order":"0","locked":false,"usd_value":"2710.629250774077581","btc_value":"0.71305282379689"}]}}
+2018-12-27 11:44:57 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.1274572932","btc_value":"0.013449486"},{"currency":"ETH","type":"exchange","total":"20.995181","on_order":"0","locked":false,"usd_value":"2710.629250774077581","btc_value":"0.71305282379689"}]}}
+2018-12-27 12:20:04 info: get cobinhood balance api call!!
+2018-12-27 12:20:04 info: getUserCobinhoodBalnace api call!!
+2018-12-27 12:20:04 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 12:20:04 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 12:20:05 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.3313860792","btc_value":"0.01349055"},{"currency":"ETH","type":"exchange","total":"20.995181","on_order":"0","locked":false,"usd_value":"2714.812480815047274","btc_value":"0.7134876339954"}]}}
+2018-12-27 12:20:05 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.3313860792","btc_value":"0.01349055"},{"currency":"ETH","type":"exchange","total":"20.995181","on_order":"0","locked":false,"usd_value":"2714.812480815047274","btc_value":"0.7134876339954"}]}}
+2018-12-27 13:42:53 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545878635,"exp":1861454635,"iss":"fuzex"}
+2018-12-27 13:42:53 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 13:42:53 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 13:43:11 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$TrBxwIS7wbh26Nc8pkVjM.KvvqDExQNB/dk8IffaxI2Xo3EGkoTRW","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1","created_at":"2018-12-26T17:43:16.081Z","modified_at":"2018-12-26T18:23:40.507Z"}
+2018-12-27 13:43:11 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4ODU3OTEsImV4cCI6MTg2MTQ2MTc5MSwiaXNzIjoiZnV6ZXgifQ.FkgBElgW14kDbWFMMugUmXHSArb_BEscx8bLJ4kMkLk","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 13:43:11 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4ODU3OTEsImV4cCI6MTg2MTQ2MTc5MSwiaXNzIjoiZnV6ZXgifQ.FkgBElgW14kDbWFMMugUmXHSArb_BEscx8bLJ4kMkLk
+2018-12-27 13:43:11 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4ODU3OTEsImV4cCI6MTg2MTQ2MTc5MSwiaXNzIjoiZnV6ZXgifQ.FkgBElgW14kDbWFMMugUmXHSArb_BEscx8bLJ4kMkLk","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 13:43:11 info: get fuzex user info api call!!
+2018-12-27 13:43:11 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 13:43:11 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 13:43:13 info: get cobinhood balance api call!!
+2018-12-27 13:43:13 info: getUserCobinhoodBalnace api call!!
+2018-12-27 13:43:13 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 13:43:13 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 13:43:14 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.1749603549","btc_value":"0.0134427"},{"currency":"ETH","type":"exchange","total":"20.998181","on_order":"0","locked":false,"usd_value":"2708.39692163559192","btc_value":"0.71144482998806"}]}}
+2018-12-27 13:43:14 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"51.1749603549","btc_value":"0.0134427"},{"currency":"ETH","type":"exchange","total":"20.998181","on_order":"0","locked":false,"usd_value":"2708.39692163559192","btc_value":"0.71144482998806"}]}}
+2018-12-27 14:55:56 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 14:55:56 info: tx approval api -> get balance
+2018-12-27 14:55:56 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 14:55:56 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104033372,"total_supply":104033372,"max_supply":null,"quotes":{"USD":{"price":125.027821342,"volume_24h":2562843942.01797,"market_cap":13007065871,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35},"SGD":{"price":171.6847034878,"volume_24h":3519225541.548698,"market_cap":17860938657,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35}},"last_updated":1545890117}
+2018-12-27 14:55:56 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:55:56 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:55:56 info: getUserCobinhoodBalnace api call!!
+2018-12-27 14:55:57 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.998181","currentRate":"171.684703","tranAmtToCryptoCurrency":"0.291231","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 14:55:57 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":20.998181,"finalCryptoBal":20.998181,"cryptoCurrency":"ETH","currentRate":171.684703,"fiatCurrency":"SGD"}}
+2018-12-27 14:56:08 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":2,"tranCurr":"SGD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 14:56:08 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 14:56:08 info: tx approval api -> transfer user cobinhood wallet to fuzex cobinhood wallet
+2018-12-27 14:56:08 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104033372,"total_supply":104033372,"max_supply":null,"quotes":{"USD":{"price":125.027821342,"volume_24h":2562843942.01797,"market_cap":13007065871,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35},"SGD":{"price":171.6847034878,"volume_24h":3519225541.548698,"market_cap":17860938657,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35}},"last_updated":1545890117}
+2018-12-27 14:56:08 info: getUserCobinhoodBalnace api call!!
+2018-12-27 14:56:08 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:56:08 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:56:08 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.998181","currentRate":"171.684703","tranAmtToCryptoCurrency":"0.011649","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 14:56:08 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:56:08 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:56:08 info: TX transferCobinhood api call!!
+2018-12-27 14:56:09 info: transferCobinhood API result:: {"success":true,"result":{"internal_withdrawal_to_client_owner":{"generic_withdrawal_id":"0c910164-b040-4f12-bfbd-96e4ed23a5e9","internal_transfer_hash":"e0856d8577251eb71a27fd0c0824181e9e70e0f2dd48beda876202ce0a4234a2"}}}
+2018-12-27 14:56:09 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":20.998181,"finalCryptoBal":20.986532,"cryptoCurrency":"ETH","currentRate":171.684703,"fiatCurrency":"SGD"}}
+2018-12-27 14:56:16 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 14:56:16 info: tx approval api -> get balance
+2018-12-27 14:56:16 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 14:56:16 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104033372,"total_supply":104033372,"max_supply":null,"quotes":{"USD":{"price":125.027821342,"volume_24h":2562843942.01797,"market_cap":13007065871,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35},"SGD":{"price":171.6847034878,"volume_24h":3519225541.548698,"market_cap":17860938657,"percent_change_1h":-2.76,"percent_change_24h":-7.13,"percent_change_7d":19.35}},"last_updated":1545890117}
+2018-12-27 14:56:16 info: getUserCobinhoodBalnace api call!!
+2018-12-27 14:56:16 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:56:16 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:56:16 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.986532","currentRate":"171.684703","tranAmtToCryptoCurrency":"0.291231","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 14:56:16 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":20.986532,"finalCryptoBal":20.986532,"cryptoCurrency":"ETH","currentRate":171.684703,"fiatCurrency":"SGD"}}
+2018-12-27 14:56:26 info: get cobinhood balance api call!!
+2018-12-27 14:56:26 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:56:26 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:56:26 info: getUserCobinhoodBalnace api call!!
+2018-12-27 14:56:26 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1779136225","btc_value":"0.013285371"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2611.936509077201992","btc_value":"0.69155009125188"}]}}
+2018-12-27 14:56:26 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1779136225","btc_value":"0.013285371"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2611.936509077201992","btc_value":"0.69155009125188"}]}}
+2018-12-27 14:56:28 info: get fuzex user info api call!!
+2018-12-27 14:56:28 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 14:56:28 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 14:56:34 info: get cobinhood balance api call!!
+2018-12-27 14:56:34 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 14:56:34 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 14:56:34 info: getUserCobinhoodBalnace api call!!
+2018-12-27 14:56:35 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1779136225","btc_value":"0.013285371"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2611.936509077201992","btc_value":"0.69155009125188"}]}}
+2018-12-27 14:56:35 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1779136225","btc_value":"0.013285371"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2611.936509077201992","btc_value":"0.69155009125188"}]}}
+2018-12-27 15:01:49 info: get fuzex user info api call!!
+2018-12-27 15:01:49 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 15:01:49 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 15:01:50 info: get cobinhood balance api call!!
+2018-12-27 15:01:50 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:01:50 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:01:50 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:01:51 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1564367737","btc_value":"0.013266183"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2624.170581316665948","btc_value":"0.69408295579896"}]}}
+2018-12-27 15:01:51 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.1564367737","btc_value":"0.013266183"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2624.170581316665948","btc_value":"0.69408295579896"}]}}
+2018-12-27 15:03:51 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545885791,"exp":1861461791,"iss":"fuzex"}
+2018-12-27 15:03:51 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 15:03:51 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 15:08:29 info: tx approval api call:: {"userId":"fox@abc.com","tc":1,"tranType":30,"tranId":"15154318","tranAmt":10,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:08:29 info: tx approval api -> get balance
+2018-12-27 15:08:29 info: getCobinhoodBalanceToTX api call!! -> userId::fox@abc.com
+2018-12-27 15:08:30 info: get coin market cap data:: {"id":2723,"name":"FuzeX","symbol":"FXT","website_slug":"fuzex","rank":1181,"circulating_supply":755098192,"total_supply":1087156610,"max_supply":null,"quotes":{"USD":{"price":0.0032428144,"volume_24h":497.3659061047,"market_cap":2448643,"percent_change_1h":1.04,"percent_change_24h":-4.38,"percent_change_7d":10.43},"SGD":{"price":0.0044525495,"volume_24h":682.908754743,"market_cap":3362112,"percent_change_1h":1.04,"percent_change_24h":-4.38,"percent_change_7d":10.43}},"last_updated":1545890853}
+2018-12-27 15:08:30 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:08:30 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:08:30 info: getUserCobinhoodRefreshToken API call!! -> fox@abc.com
+2018-12-27 15:08:30 error: getUserCobinhoodRefreshToken failed!!
+2018-12-27 15:08:30 error: get user cobinhood refresh token failed -> email::fox@abc.com
+2018-12-27 15:08:30 error: update cobinhood token to get balance failed
+2018-12-27 15:08:30 error: get cobinhood balance failed!!
+2018-12-27 15:08:30 info: tx approval api -> approval result::{"response":{"code":1003,"text":"This API is not supported"}}
+2018-12-27 15:13:04 info: user join api call:: {"email":"jhmoon@brilliantts.com","pw":"Moon6212!","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-27 15:13:05 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 15:13:05 info: user join api success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}}
+2018-12-27 15:13:36 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$xHK.DfC1BK5kh4AT7/x6iufmFqDD7qJ6E6I2UyUCfui3c622HQnu6","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","use_exchange":null,"is_crypto":"1","created_at":"2018-12-26T21:13:02.606Z","modified_at":"2018-12-26T21:13:02.606Z"}
+2018-12-27 15:13:36 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTEyMTYsImV4cCI6MTg2MTQ2NzIxNiwiaXNzIjoiZnV6ZXgifQ.-M1qr1IqMoL3H3MO4Z4kiXq8t_3zG_merxpk2Pi_XhU
+2018-12-27 15:13:36 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTEyMTYsImV4cCI6MTg2MTQ2NzIxNiwiaXNzIjoiZnV6ZXgifQ.-M1qr1IqMoL3H3MO4Z4kiXq8t_3zG_merxpk2Pi_XhU","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 15:13:36 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTEyMTYsImV4cCI6MTg2MTQ2NzIxNiwiaXNzIjoiZnV6ZXgifQ.-M1qr1IqMoL3H3MO4Z4kiXq8t_3zG_merxpk2Pi_XhU","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","use_exchange":null,"is_crypto":"1"}}}
+2018-12-27 15:14:17 info: get cobinhood oAuth state API call!!
+2018-12-27 15:14:17 info: cobinhood oAuth state value Database insert!! -> userEmail::jhmoon@brilliantts.com, state::154589125737400
+2018-12-27 15:14:17 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154589125737400}}
+2018-12-27 15:14:17 info: get cobinhood oAuth state success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"state":154589125737400}}
+2018-12-27 15:15:28 info: cobinhood client callback API call!! -> {"code":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4OTE2MjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI0Zjg2NDdkNy05NjEwLTRiMjktOTY4NS1jNzJhYjE3YjZjMzgifQ.5UYHST-pzUxV0wYwEBhJDCCH04SMNQjNQ5S67izDvsE","state":"154589125737400"}
+2018-12-27 15:15:28 info: getUserFuzeXEmailToCobinhoodOAuthState API call!!
+2018-12-27 15:15:28 info: cobinhood get token API call!! -> param::grant_type=authorization_code&code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU4OTE2MjUsIm9hdXRoMl9hdXRob3JpemF0aW9uX2NvZGVfaWQiOiI0Zjg2NDdkNy05NjEwLTRiMjktOTY4NS1jNzJhYjE3YjZjMzgifQ.5UYHST-pzUxV0wYwEBhJDCCH04SMNQjNQ5S67izDvsE&redirect_uri=http%3A%2F%2Flocalhost%3A33000%2Fauth%2Fcobinhood%2Fcallback&client_id=a224d1dd-2625-4b68-be70-8126d6221f3b headers::{"Authorization":"Basic YTIyNGQxZGQtMjYyNS00YjY4LWJlNzAtODEyNmQ2MjIxZjNiOjNsZXFJRFlLa2V0NzBnbHVjWU11dkBOQHdJejhFS3VsRWxJbjlZbm9jWnVOSXFFc2VsdXpjMGM=","Content-Type":"application/x-www-form-urlencoded"}
+2018-12-27 15:15:28 info: get cobinhood token!! -> {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU4OTQ5MjUsIm9hdXRoMl9hY2Nlc3NfdG9rZW5faWQiOiI0MDU2ZThkNC0zNzEyLTQzNzQtYmUyYi1mZDVjMjM3ODVjYmUiLCJzY29wZSI6WyJzY29wZV90aGlyZF9wYXJ0eV9pbnRlcm5hbF93aXRoZHJhdyIsInNjb3BlX2V4Y2hhbmdlX2xlZGdlcl9yZWFkIiwic2NvcGVfdGhpcmRfcGFydHlfYWNjb3VudF9yZWFkIl0sInVzZXJfaWQiOiIzODA5MzQ1Ny1mNzEwLTQ4OTAtYjhmNS0wYTA3MmVkOTcxYzgifQ.nFqK8PAcko3PR7SQP2RFMJN9BCWX_i_aDyTz7d8-3sc","expires_in":3600,"refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU5Nzc3MjUsIm9hdXRoMl9yZWZyZXNoX3Rva2VuX2lkIjoiOGVkNGFiZjQtNTA0YS00MzVlLTljZGMtYWYwMjg2MTQ1MjMwIiwic2NvcGUiOlsic2NvcGVfdGhpcmRfcGFydHlfaW50ZXJuYWxfd2l0aGRyYXciLCJzY29wZV9leGNoYW5nZV9sZWRnZXJfcmVhZCIsInNjb3BlX3RoaXJkX3BhcnR5X2FjY291bnRfcmVhZCJdLCJ1c2VyX2lkIjoiMzgwOTM0NTctZjcxMC00ODkwLWI4ZjUtMGEwNzJlZDk3MWM4In0.bomWR2_BmDMPpICs-QzL3QZl01jxg1k0pFdvQmHDsPA","scope":"scope_third_party_internal_withdraw scope_exchange_ledger_read scope_third_party_account_read","token_type":"Bearer"}
+2018-12-27 15:15:28 info: setCobinhoodOAuthTokenAndUserUseExchange API call!! --> {"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU4OTQ5MjUsIm9hdXRoMl9hY2Nlc3NfdG9rZW5faWQiOiI0MDU2ZThkNC0zNzEyLTQzNzQtYmUyYi1mZDVjMjM3ODVjYmUiLCJzY29wZSI6WyJzY29wZV90aGlyZF9wYXJ0eV9pbnRlcm5hbF93aXRoZHJhdyIsInNjb3BlX2V4Y2hhbmdlX2xlZGdlcl9yZWFkIiwic2NvcGVfdGhpcmRfcGFydHlfYWNjb3VudF9yZWFkIl0sInVzZXJfaWQiOiIzODA5MzQ1Ny1mNzEwLTQ4OTAtYjhmNS0wYTA3MmVkOTcxYzgifQ.nFqK8PAcko3PR7SQP2RFMJN9BCWX_i_aDyTz7d8-3sc","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhMjI0ZDFkZC0yNjI1LTRiNjgtYmU3MC04MTI2ZDYyMjFmM2IiLCJleHAiOjE1NDU5Nzc3MjUsIm9hdXRoMl9yZWZyZXNoX3Rva2VuX2lkIjoiOGVkNGFiZjQtNTA0YS00MzVlLTljZGMtYWYwMjg2MTQ1MjMwIiwic2NvcGUiOlsic2NvcGVfdGhpcmRfcGFydHlfaW50ZXJuYWxfd2l0aGRyYXciLCJzY29wZV9leGNoYW5nZV9sZWRnZXJfcmVhZCIsInNjb3BlX3RoaXJkX3BhcnR5X2FjY291bnRfcmVhZCJdLCJ1c2VyX2lkIjoiMzgwOTM0NTctZjcxMC00ODkwLWI4ZjUtMGEwNzJlZDk3MWM4In0.bomWR2_BmDMPpICs-QzL3QZl01jxg1k0pFdvQmHDsPA","scope":"scope_third_party_internal_withdraw scope_exchange_ledger_read scope_third_party_account_read","tokenType":"Bearer","fuzexEmail":"jhmoon@brilliantts.com"}
+2018-12-27 15:15:28 info: get fuzex user info api call!!
+2018-12-27 15:15:28 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 15:15:28 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 15:16:14 info: get cobinhood balance api call!!
+2018-12-27 15:16:14 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:16:14 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:16:14 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:16:14 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3335616907","btc_value":"0.013276059"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2631.220651964742488","btc_value":"0.69401495943528"}]}}
+2018-12-27 15:16:14 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3335616907","btc_value":"0.013276059"},{"currency":"ETH","type":"exchange","total":"20.986532","on_order":"0","locked":false,"usd_value":"2631.220651964742488","btc_value":"0.69401495943528"}]}}
+2018-12-27 15:42:54 info: get cobinhood balance api call!!
+2018-12-27 15:42:54 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:42:54 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:42:54 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:42:55 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.170995141","btc_value":"0.013229169"},{"currency":"ETH","type":"exchange","total":"21.086532","on_order":"0","locked":false,"usd_value":"2632.594013205407784","btc_value":"0.6941665247868"}]}}
+2018-12-27 15:42:55 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.170995141","btc_value":"0.013229169"},{"currency":"ETH","type":"exchange","total":"21.086532","on_order":"0","locked":false,"usd_value":"2632.594013205407784","btc_value":"0.6941665247868"}]}}
+2018-12-27 15:46:24 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-12-27 15:46:24 info: tx approval api -> get balance
+2018-12-27 15:46:24 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:46:25 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.316108769,"volume_24h":2571435293.61997,"market_cap":13037154438,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92},"SGD":{"price":172.0978653336,"volume_24h":3531377803.0812397,"market_cap":17904054561,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92}},"last_updated":1545893118}
+2018-12-27 15:46:25 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:46:25 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:46:25 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:46:26 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.086532","currentRate":"172.097865","tranAmtToCryptoCurrency":"0.290532","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:46:26 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15152946","beforeCryptoBal":21.086532,"finalCryptoBal":21.086532,"cryptoCurrency":"ETH","currentRate":172.097865,"fiatCurrency":"SGD"}}
+2018-12-27 15:47:09 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":30,"tranId":"15154319","tranAmt":10,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:47:09 info: tx approval api -> get balance
+2018-12-27 15:47:09 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:47:09 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.316108769,"volume_24h":2571435293.61997,"market_cap":13037154438,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92},"SGD":{"price":172.0978653336,"volume_24h":3531377803.0812397,"market_cap":17904054561,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92}},"last_updated":1545893118}
+2018-12-27 15:47:09 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:47:09 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:47:09 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:47:10 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.086532","currentRate":"172.097865","tranAmtToCryptoCurrency":"0.058106","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:47:10 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154319","beforeCryptoBal":21.086532,"finalCryptoBal":21.086532,"cryptoCurrency":"ETH","currentRate":172.097865,"fiatCurrency":"SGD"}}
+2018-12-27 15:47:33 info: get cobinhood balance api call!!
+2018-12-27 15:47:33 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:47:33 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:47:33 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:47:34 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.086532","on_order":"0","locked":false,"usd_value":"2642.248030629822984","btc_value":"0.69678589379184"}]}}
+2018-12-27 15:47:34 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.086532","on_order":"0","locked":false,"usd_value":"2642.248030629822984","btc_value":"0.69678589379184"}]}}
+2018-12-27 15:48:13 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":30,"tranId":"15154320","tranAmt":10,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:48:13 info: tx approval api -> get balance
+2018-12-27 15:48:13 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:48:14 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.316108769,"volume_24h":2571435293.61997,"market_cap":13037154438,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92},"SGD":{"price":172.0978653336,"volume_24h":3531377803.0812397,"market_cap":17904054561,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92}},"last_updated":1545893118}
+2018-12-27 15:48:14 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:48:14 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:48:14 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:48:14 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.086532","currentRate":"172.097865","tranAmtToCryptoCurrency":"0.058106","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:48:14 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154320","beforeCryptoBal":21.086532,"finalCryptoBal":21.086532,"cryptoCurrency":"ETH","currentRate":172.097865,"fiatCurrency":"SGD"}}
+2018-12-27 15:48:41 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":2,"tranType":110,"tranId":"15154321","tranAmt":10,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:48:41 info: tx approval api -> transfer user cobinhood wallet to fuzex cobinhood wallet
+2018-12-27 15:48:41 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:48:41 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.316108769,"volume_24h":2571435293.61997,"market_cap":13037154438,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92},"SGD":{"price":172.0978653336,"volume_24h":3531377803.0812397,"market_cap":17904054561,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92}},"last_updated":1545893118}
+2018-12-27 15:48:41 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:48:41 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:48:41 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:48:42 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.086532","currentRate":"172.097865","tranAmtToCryptoCurrency":"0.058106","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:48:42 info: TX transferCobinhood api call!!
+2018-12-27 15:48:42 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:48:42 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:48:43 info: transferCobinhood API result:: {"success":true,"result":{"internal_withdrawal_to_client_owner":{"generic_withdrawal_id":"e6343605-1bbf-43bc-bef5-75456d8fada5","internal_transfer_hash":"d37344668344307439fc6b27d68ab77568a17b2da3ad4db61c3b671b8f6bf5d6"}}}
+2018-12-27 15:48:43 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154321","beforeCryptoBal":21.086532,"finalCryptoBal":21.028426,"cryptoCurrency":"ETH","currentRate":172.097865,"fiatCurrency":"SGD"}}
+2018-12-27 15:48:55 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":30,"tranId":"15154322","tranAmt":10,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:48:55 info: tx approval api -> get balance
+2018-12-27 15:48:55 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:48:55 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.316108769,"volume_24h":2571435293.61997,"market_cap":13037154438,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92},"SGD":{"price":172.0978653336,"volume_24h":3531377803.0812397,"market_cap":17904054561,"percent_change_1h":0.57,"percent_change_24h":-6.53,"percent_change_7d":18.92}},"last_updated":1545893118}
+2018-12-27 15:48:55 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:48:55 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:48:55 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:48:56 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.028426","currentRate":"172.097865","tranAmtToCryptoCurrency":"0.058106","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:48:56 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154322","beforeCryptoBal":21.028426,"finalCryptoBal":21.028426,"cryptoCurrency":"ETH","currentRate":172.097865,"fiatCurrency":"SGD"}}
+2018-12-27 15:49:19 info: get cobinhood balance api call!!
+2018-12-27 15:49:19 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:19 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:19 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:19 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:19 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:22 info: get cobinhood balance api call!!
+2018-12-27 15:49:22 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:22 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:22 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:23 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:23 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:31 info: get cobinhood balance api call!!
+2018-12-27 15:49:31 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:31 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:31 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:31 info: get cobinhood balance api call!!
+2018-12-27 15:49:31 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:31 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:31 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:32 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:32 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:32 info: get cobinhood balance api call!!
+2018-12-27 15:49:32 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:32 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:32 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:32 error: updateCobinhoodOAuthToken API error::Error: Request failed with status code 400
+2018-12-27 15:49:32 info: ERROR_GET_USER_COBINHOOD_BALANCE ->Response Data:: {"result":500,"message":"ERROR_GET_USER_COBINHOOD_BALANCE"}
+2018-12-27 15:49:32 error: get cobinhood balance getBalance API failed!!
+2018-12-27 15:49:32 error: update cobinhood token to get balance failed
+2018-12-27 15:49:32 info: get cobinhood balance api call!!
+2018-12-27 15:49:32 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:49:32 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:49:32 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:49:33 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:33 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:33 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:49:33 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.3450080386","btc_value":"0.013276458"},{"currency":"ETH","type":"exchange","total":"21.028426","on_order":"0","locked":false,"usd_value":"2634.967057918531412","btc_value":"0.69486583215512"}]}}
+2018-12-27 15:52:57 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":2,"tranType":10,"tranId":"15154323","tranAmt":20,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 15:52:57 info: tx approval api -> transfer user cobinhood wallet to fuzex cobinhood wallet
+2018-12-27 15:52:57 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 15:52:58 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034147,"total_supply":104034147,"max_supply":null,"quotes":{"USD":{"price":125.438466135,"volume_24h":2571834088.76002,"market_cap":13049883782,"percent_change_1h":0.57,"percent_change_24h":-6.4,"percent_change_7d":18.97},"SGD":{"price":172.2598788815,"volume_24h":3531802024.3987646,"market_cap":17920909502,"percent_change_1h":0.57,"percent_change_24h":-6.4,"percent_change_7d":18.97}},"last_updated":1545893537}
+2018-12-27 15:52:58 info: getUserCobinhoodBalnace api call!!
+2018-12-27 15:52:58 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:52:58 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:52:59 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"21.028426","currentRate":"172.259878","tranAmtToCryptoCurrency":"0.116103","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 15:52:59 info: TX transferCobinhood api call!!
+2018-12-27 15:52:59 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 15:52:59 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 15:52:59 info: transferCobinhood API result:: {"success":true,"result":{"internal_withdrawal_to_client_owner":{"generic_withdrawal_id":"bac59243-7fdb-410f-a45a-582bba8ac20a","internal_transfer_hash":"6041fbb9472f7c40c9aecc5bb004a80d367e3e3bd373100262085f61894d88d2"}}}
+2018-12-27 15:52:59 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154323","beforeCryptoBal":21.028426,"finalCryptoBal":20.912323,"cryptoCurrency":"ETH","currentRate":172.259878,"fiatCurrency":"SGD"}}
+2018-12-27 16:17:32 info: get cobinhood balance api call!!
+2018-12-27 16:17:32 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:17:32 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:17:32 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:17:33 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.912323","on_order":"0","locked":false,"usd_value":"2635.68909743193218","btc_value":"0.69363540438302"}]}}
+2018-12-27 16:17:33 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.912323","on_order":"0","locked":false,"usd_value":"2635.68909743193218","btc_value":"0.69363540438302"}]}}
+2018-12-27 16:18:28 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":30,"tranId":"15154324","tranAmt":20,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 16:18:28 info: tx approval api -> get balance
+2018-12-27 16:18:28 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 16:18:28 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034665,"total_supply":104034665,"max_supply":null,"quotes":{"USD":{"price":126.208272124,"volume_24h":2550782567.23324,"market_cap":13130035358,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36},"SGD":{"price":173.3080634062,"volume_24h":3502711664.281582,"market_cap":18030046383,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36}},"last_updated":1545895039}
+2018-12-27 16:18:28 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:18:28 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:18:28 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:18:29 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.912323","currentRate":"173.308063","tranAmtToCryptoCurrency":"0.115401","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 16:18:29 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154324","beforeCryptoBal":20.912323,"finalCryptoBal":20.912323,"cryptoCurrency":"ETH","currentRate":173.308063,"fiatCurrency":"SGD"}}
+2018-12-27 16:18:42 info: get cobinhood balance api call!!
+2018-12-27 16:18:42 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:18:42 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:18:42 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:18:43 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.912323","on_order":"0","locked":false,"usd_value":"2635.68909743193218","btc_value":"0.69363540438302"}]}}
+2018-12-27 16:18:43 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.912323","on_order":"0","locked":false,"usd_value":"2635.68909743193218","btc_value":"0.69363540438302"}]}}
+2018-12-27 16:18:53 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":2,"tranType":110,"tranId":"15154325","tranAmt":30,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 16:18:53 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 16:18:53 info: tx approval api -> transfer user cobinhood wallet to fuzex cobinhood wallet
+2018-12-27 16:18:53 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034665,"total_supply":104034665,"max_supply":null,"quotes":{"USD":{"price":126.208272124,"volume_24h":2550782567.23324,"market_cap":13130035358,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36},"SGD":{"price":173.3080634062,"volume_24h":3502711664.281582,"market_cap":18030046383,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36}},"last_updated":1545895039}
+2018-12-27 16:18:53 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:18:53 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:18:53 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:18:54 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.912323","currentRate":"173.308063","tranAmtToCryptoCurrency":"0.173102","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 16:18:54 info: TX transferCobinhood api call!!
+2018-12-27 16:18:54 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:18:54 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:18:54 info: transferCobinhood API result:: {"success":true,"result":{"internal_withdrawal_to_client_owner":{"generic_withdrawal_id":"91f059e2-a586-48f4-bab1-cd20bcc54bba","internal_transfer_hash":"4acb7101deb46f2146a51cbe535e4369c06a7cac58a85170dff2e59b137cf562"}}}
+2018-12-27 16:18:54 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154325","beforeCryptoBal":20.912323,"finalCryptoBal":20.739221,"cryptoCurrency":"ETH","currentRate":173.308063,"fiatCurrency":"SGD"}}
+2018-12-27 16:18:59 info: tx approval api call:: {"userId":"jhmoon@brilliantts.com","tc":1,"tranType":30,"tranId":"15154326","tranAmt":30,"tranCurr":"SGD","merchantName":"StarBucks","merchantCountry":702}
+2018-12-27 16:18:59 info: tx approval api -> get balance
+2018-12-27 16:18:59 info: getCobinhoodBalanceToTX api call!! -> userId::jhmoon@brilliantts.com
+2018-12-27 16:18:59 info: get coin market cap data:: {"id":1027,"name":"Ethereum","symbol":"ETH","website_slug":"ethereum","rank":3,"circulating_supply":104034665,"total_supply":104034665,"max_supply":null,"quotes":{"USD":{"price":126.208272124,"volume_24h":2550782567.23324,"market_cap":13130035358,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36},"SGD":{"price":173.3080634062,"volume_24h":3502711664.281582,"market_cap":18030046383,"percent_change_1h":0.75,"percent_change_24h":-5.45,"percent_change_7d":19.36}},"last_updated":1545895039}
+2018-12-27 16:18:59 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:18:59 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:18:59 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:18:59 info: getCobinhoodBalanceToTX get balance value!! -> {"userSelectedCrypytoCurrencyBalance":"20.739221","currentRate":"173.308063","tranAmtToCryptoCurrency":"0.173102","cryptoCurrency":"ETH","fiatCurrency":"SGD"}
+2018-12-27 16:18:59 info: tx approval api -> approval result::{"response":{"code":1,"text":"OK"},"result":{"tranId":"15154326","beforeCryptoBal":20.739221,"finalCryptoBal":20.739221,"cryptoCurrency":"ETH","currentRate":173.308063,"fiatCurrency":"SGD"}}
+2018-12-27 16:19:02 info: get cobinhood balance api call!!
+2018-12-27 16:19:02 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:19:02 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:19:02 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:19:02 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2613.87214987695886","btc_value":"0.68789382915154"}]}}
+2018-12-27 16:19:02 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.8155297759","btc_value":"0.013373142"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2613.87214987695886","btc_value":"0.68789382915154"}]}}
+2018-12-27 16:44:44 info: get cobinhood balance api call!!
+2018-12-27 16:44:44 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:44:44 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:44:44 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:44:45 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.6806169652","btc_value":"0.013341807"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2607.106910465602412","btc_value":"0.68632781057383"}]}}
+2018-12-27 16:44:45 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.6806169652","btc_value":"0.013341807"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2607.106910465602412","btc_value":"0.68632781057383"}]}}
+2018-12-27 16:55:17 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545891216,"exp":1861467216,"iss":"fuzex"}
+2018-12-27 16:55:17 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 16:55:17 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 16:55:22 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$xHK.DfC1BK5kh4AT7/x6iufmFqDD7qJ6E6I2UyUCfui3c622HQnu6","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1","created_at":"2018-12-26T21:13:02.606Z","modified_at":"2018-12-26T21:29:46.970Z"}
+2018-12-27 16:55:22 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTczMjIsImV4cCI6MTg2MTQ3MzMyMiwiaXNzIjoiZnV6ZXgifQ.G9xLRKKjX963f6NulCSYrlJhtXFBKj35boejSbPkv9A","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 16:55:22 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTczMjIsImV4cCI6MTg2MTQ3MzMyMiwiaXNzIjoiZnV6ZXgifQ.G9xLRKKjX963f6NulCSYrlJhtXFBKj35boejSbPkv9A","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 16:55:22 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTczMjIsImV4cCI6MTg2MTQ3MzMyMiwiaXNzIjoiZnV6ZXgifQ.G9xLRKKjX963f6NulCSYrlJhtXFBKj35boejSbPkv9A
+2018-12-27 16:55:22 info: get fuzex user info api call!!
+2018-12-27 16:55:22 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 16:55:22 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 16:55:24 info: get cobinhood balance api call!!
+2018-12-27 16:55:24 info: getUserCobinhoodBalnace api call!!
+2018-12-27 16:55:24 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 16:55:24 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 16:55:25 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7248058168","btc_value":"0.01338195"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2603.323594264618057","btc_value":"0.68679506522296"}]}}
+2018-12-27 16:55:25 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7248058168","btc_value":"0.01338195"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2603.323594264618057","btc_value":"0.68679506522296"}]}}
+2018-12-27 17:13:30 info: get cobinhood balance api call!!
+2018-12-27 17:13:30 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:13:30 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:13:30 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:13:31 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:13:31 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:06 info: get cobinhood balance api call!!
+2018-12-27 17:14:06 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:06 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:06 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:07 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:07 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:12 info: get fuzex user info api call!!
+2018-12-27 17:14:12 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:14:12 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:14:14 info: get cobinhood balance api call!!
+2018-12-27 17:14:14 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:14 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:14 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:14 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:14 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:21 info: get cobinhood balance api call!!
+2018-12-27 17:14:21 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:21 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:21 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:22 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:22 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:27 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545897322,"exp":1861473322,"iss":"fuzex"}
+2018-12-27 17:14:27 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 17:14:27 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 17:14:29 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$xHK.DfC1BK5kh4AT7/x6iufmFqDD7qJ6E6I2UyUCfui3c622HQnu6","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1","created_at":"2018-12-26T21:13:02.606Z","modified_at":"2018-12-26T21:29:46.970Z"}
+2018-12-27 17:14:29 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg0NjksImV4cCI6MTg2MTQ3NDQ2OSwiaXNzIjoiZnV6ZXgifQ.RaNMaQN4Vb7aMivIVlOX1u_-qBXUHPNuRWABdL62mY8
+2018-12-27 17:14:29 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg0NjksImV4cCI6MTg2MTQ3NDQ2OSwiaXNzIjoiZnV6ZXgifQ.RaNMaQN4Vb7aMivIVlOX1u_-qBXUHPNuRWABdL62mY8","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 17:14:29 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg0NjksImV4cCI6MTg2MTQ3NDQ2OSwiaXNzIjoiZnV6ZXgifQ.RaNMaQN4Vb7aMivIVlOX1u_-qBXUHPNuRWABdL62mY8","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 17:14:29 info: get fuzex user info api call!!
+2018-12-27 17:14:29 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:14:29 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:14:30 info: get cobinhood balance api call!!
+2018-12-27 17:14:30 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:30 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:30 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:31 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:31 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:35 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-27 17:14:38 info: get cobinhood balance api call!!
+2018-12-27 17:14:38 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:38 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:38 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:39 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:39 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:55 info: get cobinhood balance api call!!
+2018-12-27 17:14:55 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:14:55 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:14:55 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:14:55 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:14:55 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.7325655922","btc_value":"0.013357782"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2602.33593351603587","btc_value":"0.68518984951756"}]}}
+2018-12-27 17:15:12 info: get cobinhood balance api call!!
+2018-12-27 17:15:12 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:15:12 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:15:12 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:15:12 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:15:12 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:15:29 info: get cobinhood balance api call!!
+2018-12-27 17:15:29 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:15:29 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:15:29 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:15:29 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:15:29 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:15:30 info: INVALID_TOKEN ->Response Data:: {"result":401,"message":"INVALID_TOKEN"}
+2018-12-27 17:15:56 info: get cobinhood balance api call!!
+2018-12-27 17:15:56 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:15:56 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:15:56 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:15:57 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:15:57 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:16:01 info: get fuzex user info api call!!
+2018-12-27 17:16:01 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:16:01 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:16:02 info: get cobinhood balance api call!!
+2018-12-27 17:16:02 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:16:02 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:16:02 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:16:03 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:16:03 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:16:05 info: USER LOGOUT!! -> {"id":"jhmoon@brilliantts.com","iat":1545898469,"exp":1861474469,"iss":"fuzex"}
+2018-12-27 17:16:05 info: user logout api success!! -> {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 17:16:05 info: RESPONSE_CODE_OK ->Response Data:: {"result":200,"message":"RESPONSE_CODE_OK"}
+2018-12-27 17:16:07 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$xHK.DfC1BK5kh4AT7/x6iufmFqDD7qJ6E6I2UyUCfui3c622HQnu6","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1","created_at":"2018-12-26T21:13:02.606Z","modified_at":"2018-12-26T21:29:46.970Z"}
+2018-12-27 17:16:07 info: login api success!! -> {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg1NjcsImV4cCI6MTg2MTQ3NDU2NywiaXNzIjoiZnV6ZXgifQ.Vtm9rAmYcFSjlhwQLgv5jH-Kf9ju_3WiugE6XrStDLw","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 17:16:07 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg1NjcsImV4cCI6MTg2MTQ3NDU2NywiaXNzIjoiZnV6ZXgifQ.Vtm9rAmYcFSjlhwQLgv5jH-Kf9ju_3WiugE6XrStDLw","userInfo":{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}}}
+2018-12-27 17:16:07 info: get user fuzex jwt token!! -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDU4OTg1NjcsImV4cCI6MTg2MTQ3NDU2NywiaXNzIjoiZnV6ZXgifQ.Vtm9rAmYcFSjlhwQLgv5jH-Kf9ju_3WiugE6XrStDLw
+2018-12-27 17:16:07 info: get fuzex user info api call!!
+2018-12-27 17:16:07 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:16:07 info: get fuzex user info success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":[{"email":"jhmoon@brilliantts.com","loading_number":"2040920170912","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"ETH","use_exchange":1,"is_crypto":"1"}]}
+2018-12-27 17:16:07 info: get cobinhood balance api call!!
+2018-12-27 17:16:07 info: getUserCobinhoodBalnace api call!!
+2018-12-27 17:16:07 info: updateCobinhoodOAuthToken API call!!
+2018-12-27 17:16:07 info: getUserCobinhoodRefreshToken API call!! -> jhmoon@brilliantts.com
+2018-12-27 17:16:08 info: RESPONSE_CODE_OK -> Response Data:: {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}
+2018-12-27 17:16:08 info: get cobinhood balance success!! -> {"result":200,"message":"RESPONSE_CODE_OK","data":{"balances":[{"currency":"BCH","type":"exchange","total":"0.3","on_order":"0","locked":false,"usd_value":"50.9616273651","btc_value":"0.013396152"},{"currency":"ETH","type":"exchange","total":"20.739221","on_order":"0","locked":false,"usd_value":"2608.04976559969879","btc_value":"0.68557145118396"}]}}

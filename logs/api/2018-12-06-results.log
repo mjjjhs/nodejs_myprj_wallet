@@ -1,0 +1,28 @@
+2018-12-06 14:42:03 error: {"message":"Not Found","status":404}
+2018-12-06 14:42:03 error: {"message":"Not Found","status":404}
+2018-12-06 16:04:00 info: user join api call:: {"email":"fox@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-06 16:04:00 info: user join api response:: There is already an account -> fox@abc.com
+2018-12-06 16:04:38 info: user join api call:: {"email":"fox@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-06 16:04:38 info: user join api response:: There is already an account -> fox@abc.com
+2018-12-06 16:10:56 info: user join api call:: {"email":"jhmoon@brilliantts.com","pw":"Moon6212!","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-06 16:10:56 info: user join api response:: {"result":200,"message":"RESPONSE_CODE_OK","responseData":{"affectedRow":1}}
+2018-12-06 16:11:52 info: user join api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-06 16:11:53 error: Query Error. -> Error: Column 'email' cannot be null
+2018-12-06 16:11:53 info: user join api response:: {"result":200,"message":"RESPONSE_CODE_OK","responseData":{"affectedRow":0}}
+2018-12-06 16:14:30 info: user join api call:: {"id":"jhmoon@brilliantts.com","pw":"Moon6212!"}
+2018-12-06 16:14:31 error: Query Error. -> Error: Column 'email' cannot be null
+2018-12-06 16:14:31 info: user join api response:: {"result":200,"message":"RESPONSE_CODE_OK","responseData":{"affectedRow":0}}
+2018-12-06 16:14:54 error: {"status":500}
+2018-12-06 16:15:03 error: {"status":500}
+2018-12-06 16:15:39 error: {"status":500}
+2018-12-06 16:17:38 error: {"status":500}
+2018-12-06 16:19:26 error: {"status":500}
+2018-12-06 16:22:35 error: {"status":500}
+2018-12-06 16:44:54 error: {"status":500}
+2018-12-06 17:05:31 error: {"status":500}
+2018-12-06 17:36:26 error: {"message":"Not Found","status":404}
+2018-12-06 17:36:26 error: {"message":"Not Found","status":404}
+2018-12-06 18:07:54 error: {"status":500}
+2018-12-06 18:26:42 error: {"message":"Not Found","status":404}
+2018-12-06 18:27:07 error: {"message":"Not Found","status":404}
+2018-12-06 18:48:32 error: {"message":"Not Found","status":404}

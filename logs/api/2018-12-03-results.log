@@ -1,0 +1,11 @@
+2018-12-03 10:31:15 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":971,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-03 10:31:15 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_country_code_ISO_3166_country_code` FOREIGN KEY (`country_code`) REFERENCES `ISO_3166` (`country_code`))
+2018-12-03 10:31:15 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}
+2018-12-03 10:38:55 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"082","mobileNum":"01082942417"}
+2018-12-03 10:38:55 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_code_phone_E_164_code_phone` FOREIGN KEY (`code_phone`) REFERENCES `E_164` (`code_phone`))
+2018-12-03 10:38:55 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}
+2018-12-03 10:39:55 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"+82","mobileNum":"01082942417"}
+2018-12-03 10:39:56 error: Query Error. -> Error: Cannot add or update a child row: a foreign key constraint fails (`fuzexdev`.`FX_USER`, CONSTRAINT `FK_FX_USER_code_phone_E_164_code_phone` FOREIGN KEY (`code_phone`) REFERENCES `E_164` (`code_phone`))
+2018-12-03 10:39:56 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":0}}
+2018-12-03 10:40:10 info: user join api call:: {"email":"fox4@abc.com","pw":"testPassword","firstName":"jh","lastName":"moon","nationality":410,"nationalPhoneCode":"82","mobileNum":"01082942417"}
+2018-12-03 10:40:10 info: user join api response:: {"status":200,"message":"RESPONSE_CODE_OK","data":{"affectedRow":1}}

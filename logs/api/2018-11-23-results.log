@@ -1,0 +1,27 @@
+2018-11-23 15:34:27 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 15:36:23 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 15:37:58 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 15:44:42 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:09:49 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:10:49 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:56:32 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:56:32 error: tx approval api error. {}
+2018-11-23 16:57:10 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:57:10 error: tx approval api error. Error: woops
+2018-11-23 16:58:06 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 16:58:06 error: tx approval api error. -> Error: woops
+2018-11-23 17:05:47 info: tx approval api call. undefined
+2018-11-23 17:05:47 error: util stringify error -> Error: asdasd
+2018-11-23 17:06:17 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 17:08:43 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 17:12:32 info: sdasd
+2018-11-23 17:12:32 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 17:31:32 info: tx approval api call. {"userId":"ninja@zxc.com","tc":2,"tranType":110,"tranId":"15152981","tranAmt":50,"tranCurr":"EUR","merchantName":"Client A","merchantCountry":484}
+2018-11-23 18:43:24 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:47:06 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:47:33 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:47:57 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:49:24 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:49:48 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:53:06 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}
+2018-11-23 18:54:06 info: tx approval api call. {"userId":"fox@abc.com","tc":2,"tranType":110,"tranId":"15152946","tranAmt":50,"tranCurr":"USD","merchantName":"starbucks","merchantCountry":484}

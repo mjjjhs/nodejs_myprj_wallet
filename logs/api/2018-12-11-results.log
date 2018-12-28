@@ -1,0 +1,225 @@
+2018-12-11 09:21:43 error: {"message":"Not Found","status":404}
+2018-12-11 09:22:09 error: {"message":"Not Found","status":404}
+2018-12-11 09:23:09 error: {"message":"Not Found","status":404}
+2018-12-11 09:23:31 error: {"message":"Not Found","status":404}
+2018-12-11 09:24:27 error: {"message":"Not Found","status":404}
+2018-12-11 09:25:12 info: user test api call:: {"headers":{"Content-Type":"application/json","Authorization":"jhmoon@brilliantts.com eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0MzY3MDgsImV4cCI6MTg2MDAxMjcwOCwiaXNzIjoiZnV6ZXgifQ.ockQ0PDRSKXm4vvoTYg-xU83ykL09GLklPONKHaZyeg"}}
+2018-12-11 09:29:07 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 09:29:36 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 09:29:36 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 09:29:36 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T15:28:57.411Z","is_crypto":"1"}
+2018-12-11 09:29:36 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0ODgxNzYsImV4cCI6MTg2MDA2NDE3NiwiaXNzIjoiZnV6ZXgifQ.mF3zYk6NnVdntwbfYGaiZg9dBIuInjWAhK4QwtuFnFU,jhmoon@brilliantts.com
+2018-12-11 09:29:58 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 09:30:04 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 09:30:04 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 09:30:04 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T15:29:49.260Z","is_crypto":"1"}
+2018-12-11 09:30:04 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0ODgyMDQsImV4cCI6MTg2MDA2NDIwNCwiaXNzIjoiZnV6ZXgifQ.vkNXA4K_dcIATYetvktH6HyknRStQyqEVBUnbpRY9UQ,jhmoon@brilliantts.com
+2018-12-11 09:30:18 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 09:30:20 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 09:30:21 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 09:30:21 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T15:30:09.205Z","is_crypto":"1"}
+2018-12-11 09:30:21 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0ODgyMjEsImV4cCI6MTg2MDA2NDIyMSwiaXNzIjoiZnV6ZXgifQ.b99A86kjzgcfzut2fLMarHvZf4TWlTNecFz8lMowAxo,jhmoon@brilliantts.com
+2018-12-11 10:00:20 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:01:49 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:01:49 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:01:49 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:00:10.709Z","is_crypto":"1"}
+2018-12-11 10:01:49 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTAxMDksImV4cCI6MTg2MDA2NjEwOSwiaXNzIjoiZnV6ZXgifQ.7MfGtl4RI0tYPsYm8PgxY27AvPwqLTVsGSMJ6FOYBOI,jhmoon@brilliantts.com
+2018-12-11 10:03:29 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:04:56 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:04:56 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:03:19.366Z","is_crypto":"1"}
+2018-12-11 10:04:56 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:04:56 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTAyOTYsImV4cCI6MTg2MDA2NjI5NiwiaXNzIjoiZnV6ZXgifQ.zVNXOylGapx70gA-8WVKRa4zK4Paw7n6GYb_cWpX1TA,jhmoon@brilliantts.com
+2018-12-11 10:05:01 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:13:02 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:13:02 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:13:02 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:04:51.718Z","is_crypto":"1"}
+2018-12-11 10:13:02 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTA3ODIsImV4cCI6MTg2MDA2Njc4MiwiaXNzIjoiZnV6ZXgifQ.83swzTEBA3pwrzh1mBfPJE9xer3bpjw_GuST0ou96-k,jhmoon@brilliantts.com
+2018-12-11 10:25:07 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:25:07 info: user test api call:: {}
+2018-12-11 10:26:51 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:26:51 info: user test api call:: {}
+2018-12-11 10:29:47 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:29:47 info: user test api call:: {}
+2018-12-11 10:31:47 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:31:47 info: user test api call:: {}
+2018-12-11 10:36:00 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:36:10 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:36:11 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:36:11 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:35:50.536Z","is_crypto":"1"}
+2018-12-11 10:36:11 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTIxNzEsImV4cCI6MTg2MDA2ODE3MSwiaXNzIjoiZnV6ZXgifQ.vaxkZpCCwiiadRCX9Xu_ontp51QR8TTw2vUV0ZBZJlA,jhmoon@brilliantts.com
+2018-12-11 10:36:36 info: user test api call:: {}
+2018-12-11 10:37:08 info: user test api call:: {}
+2018-12-11 10:37:36 info: user test api call:: {}
+2018-12-11 10:37:44 error: {"message":"Not Found","status":404}
+2018-12-11 10:40:51 info: user test api call:: {}
+2018-12-11 10:54:25 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:54:43 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:54:43 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:54:43 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:54:15.375Z","is_crypto":"1"}
+2018-12-11 10:54:43 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTMyODMsImV4cCI6MTg2MDA2OTI4MywiaXNzIjoiZnV6ZXgifQ.6qUJPGZMMMO1qrdxpHzvSgcUXdyYYPENi0xldwaWMk8,jhmoon@brilliantts.com
+2018-12-11 10:55:40 error: {"message":"Unauthorized","status":401}
+2018-12-11 10:56:19 error: {"message":"Unauthorized","status":401}
+2018-12-11 10:58:30 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 10:58:37 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 10:58:38 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 10:58:38 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:58:20.978Z","is_crypto":"1"}
+2018-12-11 10:58:38 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTM1MTgsImV4cCI6MTg2MDA2OTUxOCwiaXNzIjoiZnV6ZXgifQ.Ys-j6wF31POo3WJ6npVN5ZYDlGH6AAFEjBfPEGFO78M,jhmoon@brilliantts.com
+2018-12-11 10:59:25 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 11:04:16 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 11:04:16 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 11:04:16 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T16:59:15.578Z","is_crypto":"1"}
+2018-12-11 11:04:16 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTM4NTYsImV4cCI6MTg2MDA2OTg1NiwiaXNzIjoiZnV6ZXgifQ.bHLZ6v3Bdyx0PVgfhFLtFNyYJTwj-wjtz5WntstD-L8,jhmoon@brilliantts.com
+2018-12-11 11:04:28 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 11:12:10 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 11:12:11 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 11:12:11 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T17:04:18.496Z","is_crypto":"1"}
+2018-12-11 11:12:11 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTQzMzEsImV4cCI6MTg2MDA3MDMzMSwiaXNzIjoiZnV6ZXgifQ.xCAq_oKnGoIMK8-0UrRHRv_oyX0dyIWNbaNGxwWSvyY,jhmoon@brilliantts.com
+2018-12-11 11:12:56 error: {"message":"Unauthorized","status":401}
+2018-12-11 11:13:01 error: {"message":"Unauthorized","status":401}
+2018-12-11 11:13:03 error: {"message":"Unauthorized","status":401}
+2018-12-11 11:58:12 error: {"message":"Unauthorized","status":401}
+2018-12-11 11:59:09 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 11:59:18 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 11:59:19 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 11:59:19 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T17:58:59.380Z","is_crypto":"1"}
+2018-12-11 11:59:19 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTcxNTksImV4cCI6MTg2MDA3MzE1OSwiaXNzIjoiZnV6ZXgifQ.h0bIA85WZbALENkcDp-Z1XOvKwTP_dPvJF6gtMWlD1I,jhmoon@brilliantts.com
+2018-12-11 12:00:00 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:00:14 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:00:15 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:00:15 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T17:59:50.513Z","is_crypto":"1"}
+2018-12-11 12:00:15 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTcyMTUsImV4cCI6MTg2MDA3MzIxNSwiaXNzIjoiZnV6ZXgifQ.lQhP6n9IGan9R4tuhT4Cfi4vAJ-Li1NyHIQJQgjHG9s,jhmoon@brilliantts.com
+2018-12-11 12:06:16 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:06:18 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:06:19 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:06:19 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:06:07.117Z","is_crypto":"1"}
+2018-12-11 12:06:19 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTc1NzksImV4cCI6MTg2MDA3MzU3OSwiaXNzIjoiZnV6ZXgifQ.1KY86hK_Fa54Oq2Q9Vh2cglGMmrnZO-1jpvreqo04D8,jhmoon@brilliantts.com
+2018-12-11 12:07:35 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:07:40 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:07:41 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:07:41 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:07:25.371Z","is_crypto":"1"}
+2018-12-11 12:07:41 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTc2NjEsImV4cCI6MTg2MDA3MzY2MSwiaXNzIjoiZnV6ZXgifQ.xIWuzlK4yFam3mst4x6DVGPwXUXd9fteSUAY_e0w1U4,jhmoon@brilliantts.com
+2018-12-11 12:10:22 info: user test api call:: {}
+2018-12-11 12:11:13 info: user test api call:: {}
+2018-12-11 12:11:16 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:11:18 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:11:18 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:11:18 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:11:18 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:11:06.638Z","is_crypto":"1"}
+2018-12-11 12:11:18 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTc4NzgsImV4cCI6MTg2MDA3Mzg3OCwiaXNzIjoiZnV6ZXgifQ.fYs8_ilAc4rkFagVVqn1FRArT3qb6KZrBK74G9xhKnw,jhmoon@brilliantts.com
+2018-12-11 12:11:18 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:11:18 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:11:06.638Z","is_crypto":"1"}
+2018-12-11 12:11:18 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTc4NzgsImV4cCI6MTg2MDA3Mzg3OCwiaXNzIjoiZnV6ZXgifQ.fYs8_ilAc4rkFagVVqn1FRArT3qb6KZrBK74G9xhKnw,jhmoon@brilliantts.com
+2018-12-11 12:11:23 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:11:28 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:11:29 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 12:11:29 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:11:13.950Z","is_crypto":"1"}
+2018-12-11 12:11:29 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTc4ODksImV4cCI6MTg2MDA3Mzg4OSwiaXNzIjoiZnV6ZXgifQ.o3IsGMFRu-HuV9x4ezkrQ9nKIOW0X8ZU2Yl1_NwxgBA,jhmoon@brilliantts.com
+2018-12-11 12:18:04 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:18:15 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:18:15 info: LocalStrategy result!! -> true
+2018-12-11 12:18:15 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:17:54.090Z","is_crypto":"1"}
+2018-12-11 12:18:15 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTgyOTUsImV4cCI6MTg2MDA3NDI5NSwiaXNzIjoiZnV6ZXgifQ.jdgTi7preRP0r88LngSpg2GfYDnvFY33gnRCjrpHZac,jhmoon@brilliantts.com
+2018-12-11 12:20:41 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 12:20:47 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 12:20:47 info: LocalStrategy result!! -> true
+2018-12-11 12:20:47 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTg0NDcsImV4cCI6MTg2MDA3NDQ0NywiaXNzIjoiZnV6ZXgifQ.VoMGeOb2SE5wTVoUl05lkPNJPIYLjlnMgjQytqIrJRw,jhmoon@brilliantts.com
+2018-12-11 12:20:47 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:20:32.002Z","is_crypto":"1"}
+2018-12-11 12:20:47 error: {"message":"Not Found","status":404}
+2018-12-11 13:20:01 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:20:02 info: LocalStrategy result!! -> true
+2018-12-11 13:20:02 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ0OTg0NDcsImV4cCI6MTg2MDA3NDQ0NywiaXNzIjoiZnV6ZXgifQ.VoMGeOb2SE5wTVoUl05lkPNJPIYLjlnMgjQytqIrJRw","first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T18:20:37.571Z","is_crypto":"1"}
+2018-12-11 13:20:02 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDIwMDIsImV4cCI6MTg2MDA3ODAwMiwiaXNzIjoiZnV6ZXgifQ.bWFJtIampFJD03-Ff0PoGKKJkdTGyyLsKyXMKQgbrNo,jhmoon@brilliantts.com
+2018-12-11 13:30:21 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 13:30:25 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:30:26 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 13:30:26 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T19:30:11.166Z","is_crypto":"1"}
+2018-12-11 13:30:26 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDI2MjYsImV4cCI6MTg2MDA3ODYyNiwiaXNzIjoiZnV6ZXgifQ.XM0jPyG4rAwVhu7JTVsmyaeklTfcjLeqcLy71ZJqqcs,jhmoon@brilliantts.com
+2018-12-11 13:31:27 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 13:31:29 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:31:29 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 13:31:29 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T19:31:16.954Z","is_crypto":"1"}
+2018-12-11 13:31:29 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDI2ODksImV4cCI6MTg2MDA3ODY4OSwiaXNzIjoiZnV6ZXgifQ.FXxLLhQPRkjk999g6P-jzrGIkpGLbWZNIon9Zc18VLA,jhmoon@brilliantts.com
+2018-12-11 13:31:32 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 13:31:50 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:31:50 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 13:31:50 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T19:31:22.045Z","is_crypto":"1"}
+2018-12-11 13:31:50 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDI3MTAsImV4cCI6MTg2MDA3ODcxMCwiaXNzIjoiZnV6ZXgifQ.O7ssFjbNw0QY7-moyF3_stVnZNN_xfP4TEd8ablO3dY,jhmoon@brilliantts.com
+2018-12-11 13:31:57 info: user test api call:: {}
+2018-12-11 13:36:04 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 13:36:06 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:36:06 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 13:36:06 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T19:35:54.699Z","is_crypto":"1"}
+2018-12-11 13:36:06 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDI5NjYsImV4cCI6MTg2MDA3ODk2NiwiaXNzIjoiZnV6ZXgifQ.T8tIkIAEf9BRPovj8-BFsn1jG07q5ZgvXUFI-sScG_8,jhmoon@brilliantts.com
+2018-12-11 13:40:07 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 13:40:09 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 13:40:09 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 13:40:09 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T19:39:57.138Z","is_crypto":"1"}
+2018-12-11 13:40:09 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDMyMDksImV4cCI6MTg2MDA3OTIwOSwiaXNzIjoiZnV6ZXgifQ.KeJwpjudQ8irgmqSiRmPUQGOB5wpQr57qz9_0_BKU3c,jhmoon@brilliantts.com
+2018-12-11 14:52:33 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 14:52:38 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 14:52:38 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 14:52:38 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T20:52:23.539Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 14:52:38 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDc1NTgsImV4cCI6MTg2MDA4MzU1OCwiaXNzIjoiZnV6ZXgifQ.9KrrmGQzq9KrDW9WQxKgsrVhV8zoraa_wFUJ_-THm9c,jhmoon@brilliantts.com
+2018-12-11 14:59:59 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:00:00 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:00:00 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:00:00 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T20:59:48.765Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:00:00 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDgwMDAsImV4cCI6MTg2MDA4NDAwMCwiaXNzIjoiZnV6ZXgifQ.b_2Ym-4m3EfM30a6p56ARKaWIHYDJa8AvaKJ7g5rEgo,jhmoon@brilliantts.com
+2018-12-11 15:00:13 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:00:15 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:00:15 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:00:15 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDgwMTUsImV4cCI6MTg2MDA4NDAxNSwiaXNzIjoiZnV6ZXgifQ.YODakIUVIMmQAn5QuJSZpsamMsvKW8Y5DPa4XX8ivSM,jhmoon@brilliantts.com
+2018-12-11 15:00:15 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:00:03.375Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:02:30 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:02:35 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:02:36 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:02:36 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:02:19.786Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:02:36 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDgxNTYsImV4cCI6MTg2MDA4NDE1NiwiaXNzIjoiZnV6ZXgifQ.N3vR3GKmk5D9MexlgSa_S8tPgOU2_D4ii-TGOJ4o4a8,jhmoon@brilliantts.com
+2018-12-11 15:02:55 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:03:29 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:03:29 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:03:29 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDgyMDksImV4cCI6MTg2MDA4NDIwOSwiaXNzIjoiZnV6ZXgifQ.TsAN3h9uc1NUyYs-IIm-0IQTZsTaTvhaMJvvZABi8bk,jhmoon@brilliantts.com
+2018-12-11 15:03:29 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:02:44.925Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:03:53 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:03:56 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:03:56 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:03:56 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:03:44.257Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:03:56 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDgyMzYsImV4cCI6MTg2MDA4NDIzNiwiaXNzIjoiZnV6ZXgifQ.DOC8EMRpNEFWCl7FTCKFhw520amLXfd9ur-nB7xMJS0,jhmoon@brilliantts.com
+2018-12-11 15:07:21 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:07:23 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:07:23 info: LocalStrategy result!! -> true:: userPassword:inputPassword -> Moon6212!:$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa
+2018-12-11 15:07:23 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:07:11.516Z","use_exchange":null,"is_crypto":"1"}, {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:07:11.516Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:07:23 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDg0NDMsImV4cCI6MTg2MDA4NDQ0MywiaXNzIjoiZnV6ZXgifQ.pZECIilOUMYdNDWxF-CQdGHsr0Z_g0JbAbstS6xavx8,jhmoon@brilliantts.com
+2018-12-11 15:08:01 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:08:05 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:08:06 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:07:51.216Z","use_exchange":null,"is_crypto":"1"}, {"message":"LOGGED_IN_SUCCEFFULLY"}
+2018-12-11 15:08:06 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDg0ODYsImV4cCI6MTg2MDA4NDQ4NiwiaXNzIjoiZnV6ZXgifQ.dQnFlf6efpcZPkv6k5HeJtO3mGE3j707opP7Gz7HuNI,jhmoon@brilliantts.com
+2018-12-11 15:09:37 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 15:09:41 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:09:41 info: passport login callback func start!! -> false
+2018-12-11 15:10:41 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:10:41 info: passport login callback func start!! -> false
+2018-12-11 15:10:58 error: {"message":"Not Found","status":404}
+2018-12-11 15:11:56 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:11:56 info: passport login callback func start!! -> false
+2018-12-11 15:12:16 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com1
+2018-12-11 15:12:16 info: passport login callback func start!! -> false
+2018-12-11 15:12:24 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:12:24 info: passport login callback func start!! -> false
+2018-12-11 15:12:35 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 15:12:36 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T21:09:27.232Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 15:12:36 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MDg3NTYsImV4cCI6MTg2MDA4NDc1NiwiaXNzIjoiZnV6ZXgifQ.V4nsxDdbuBPlHUmH2awYLXQlJA82pK20jYVUcK_HTPQ,jhmoon@brilliantts.com
+2018-12-11 16:51:52 info: USER LOGOUT!! -> jhmoon@brilliantts.com
+2018-12-11 16:51:52 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 16:51:52 info: OK ->Response Data:: {"result":200,"message":"OK"}
+2018-12-11 16:51:58 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 16:51:58 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T22:51:41.612Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 16:51:58 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MTQ3MTgsImV4cCI6MTg2MDA5MDcxOCwiaXNzIjoiZnV6ZXgifQ.UMM56kToOu1N2I2v9kjOYv__5PPqt7_lRhr56uw2vfk,jhmoon@brilliantts.com
+2018-12-11 16:51:58 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MTQ3MTgsImV4cCI6MTg2MDA5MDcxOCwiaXNzIjoiZnV6ZXgifQ.UMM56kToOu1N2I2v9kjOYv__5PPqt7_lRhr56uw2vfk","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
+2018-12-11 17:24:55 info: USER LOGOUT!! -> jhmoon@brilliantts.com
+2018-12-11 17:24:55 info: Send mysql query!! -> removeToken:: ,jhmoon@brilliantts.com
+2018-12-11 17:24:55 info: OK ->Response Data:: {"result":200,"message":"OK"}
+2018-12-11 17:24:59 info: Send mysql query!! -> findUserByEmail:: jhmoon@brilliantts.com
+2018-12-11 17:24:59 info: passport login callback func start!! -> {"email":"jhmoon@brilliantts.com","passwd":"$2b$12$pSlAX/6RhZOfFb26UJ.yBeXHp3YdxDSL25AavfPMmH4NcsXTrrPTa","loading_number":null,"token":null,"first_name":"jh","last_name":"moon","country_code":410,"code_phone":"82","phone_number":"01082942417","selected_crypto_symbol":"FXT","created_at":"2018-12-09T16:52:10.133Z","modified_at":"2018-12-10T23:24:44.678Z","use_exchange":null,"is_crypto":"1"}
+2018-12-11 17:24:59 info: Send mysql query!! -> addToken:: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MTY2OTksImV4cCI6MTg2MDA5MjY5OSwiaXNzIjoiZnV6ZXgifQ.llCpV0L-Dr_C1FW97akp58CdcqZFsQCjUdlMZMuPVlk,jhmoon@brilliantts.com
+2018-12-11 17:24:59 info: LOGGED_IN_SUCCEFFULLY -> Response Data:: {"result":200,"message":"LOGGED_IN_SUCCEFFULLY","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImpobW9vbkBicmlsbGlhbnR0cy5jb20iLCJpYXQiOjE1NDQ1MTY2OTksImV4cCI6MTg2MDA5MjY5OSwiaXNzIjoiZnV6ZXgifQ.llCpV0L-Dr_C1FW97akp58CdcqZFsQCjUdlMZMuPVlk","email":"jhmoon@brilliantts.com","firstName":"jh","lastName":"moon","useExchange":null}}
